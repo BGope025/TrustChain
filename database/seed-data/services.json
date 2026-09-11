@@ -1,0 +1,10 @@
+[
+  {
+    "id": "srv_finance_1",
+    "providerId": "prov_1",
+    "name": "Real-time Stock Quotes",
+    "category": "Finance",
+    "cost": 0.005,
+    "endpointUrl": "https://api.dataoracle.test/finance/quotes"
+  }
+]

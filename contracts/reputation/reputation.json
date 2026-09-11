@@ -1,0 +1,20 @@
+{
+  "name": "ASB_Reputation",
+  "desc": "Manages marketplace provider trust scores",
+  "networks": {
+    "testnet": {
+      "appId": 123456789,
+      "creator": "ALGO_CREATOR_TESTNET_ADDRESS"
+    }
+  },
+  "schema": {
+    "global": {
+      "ints": 1,
+      "bytes": 1
+    },
+    "local": {
+      "ints": 1,
+      "bytes": 0
+    }
+  }
+}

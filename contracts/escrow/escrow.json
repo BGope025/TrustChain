@@ -1,0 +1,20 @@
+{
+  "name": "ASB_Escrow",
+  "desc": "Trustless escrow for x402 payment settlements",
+  "networks": {
+    "testnet": {
+      "appId": 987654321,
+      "address": "ALGO_ESCROW_CONTRACT_ACCOUNT_ADDRESS"
+    }
+  },
+  "schema": {
+    "global": {
+      "ints": 0,
+      "bytes": 1
+    },
+    "local": {
+      "ints": 0,
+      "bytes": 0
+    }
+  }
+}

@@ -1,0 +1,737 @@
+[
+  {
+    "id": "aedbx---aerodatabox",
+    "name": "AeroDataBox API - Aviation and Flight API",
+    "provider": "aedbx / AeroDataBox",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/aedbx---aerodatabox.service.js"
+  },
+  {
+    "id": "agent",
+    "name": "agent.service.js",
+    "provider": "Unknown",
+    "price": "$0.00",
+    "filepath": "../services/agent.service.js"
+  },
+  {
+    "id": "ai-subscription",
+    "name": "AI Subscription — Multi Model API",
+    "provider": "ai-subscription",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/ai-subscription.service.js"
+  },
+  {
+    "id": "ailabtools",
+    "name": "Product Background Removal API",
+    "provider": "AILabTools",
+    "price": "$0.05 per call (marketplace unit price)",
+    "filepath": "../services/ailabtools.service.js"
+  },
+  {
+    "id": "amadeus",
+    "name": "Amadeus Enterprise Air APIs",
+    "provider": "Amadeus",
+    "price": "$0.05 per call (marketplace unit price)",
+    "filepath": "../services/amadeus.service.js"
+  },
+  {
+    "id": "amazon-web-services",
+    "name": "Amazon Rekognition Image",
+    "provider": "Amazon Web Services",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/amazon-web-services.service.js"
+  },
+  {
+    "id": "analytics",
+    "name": "serviceBreakdown.sort((a, b) => b.totalCost - a.totalCost),",
+    "provider": "providerBreakdown.sort((a, b) => b.totalRevenue - a.totalRevenue)",
+    "price": "$0.00",
+    "filepath": "../services/analytics.service.js"
+  },
+  {
+    "id": "api-shop",
+    "name": "HydraAI Models Gateway",
+    "provider": "api-shop",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/api-shop.service.js"
+  },
+  {
+    "id": "apiforge",
+    "name": "PackDiff - Automated PDF Text Comparison & Delta API",
+    "provider": "apiforge",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/apiforge.service.js"
+  },
+  {
+    "id": "aviationstack---apilayer",
+    "name": "Aviationstack Flight Data API",
+    "provider": "Aviationstack / APILayer",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/aviationstack---apilayer.service.js"
+  },
+  {
+    "id": "blackflamestudio-2",
+    "name": "Nyari AI — Advanced Text Generation API",
+    "provider": "blackflamestudio-2",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/blackflamestudio-2.service.js"
+  },
+  {
+    "id": "brave",
+    "name": "Google Search API",
+    "provider": "brave",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/brave.service.js"
+  },
+  {
+    "id": "bridgeml",
+    "name": "BridgeML LLM API: 15+ Model Options",
+    "provider": "bridgeml",
+    "price": "$0.002 per call (marketplace unit price)",
+    "filepath": "../services/bridgeml.service.js"
+  },
+  {
+    "id": "businesslab",
+    "name": "Feed Change & Health Monitor",
+    "provider": "businesslab",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/businesslab.service.js"
+  },
+  {
+    "id": "carstat",
+    "name": "Copart & IAAI API insurance auctions",
+    "provider": "carstat",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/carstat.service.js"
+  },
+  {
+    "id": "cblu",
+    "name": "USAspending Federal Awards Search API",
+    "provider": "cblu",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/cblu.service.js"
+  },
+  {
+    "id": "clipdrop--jasper-ai-",
+    "name": "Clipdrop Uncrop API",
+    "provider": "Clipdrop (Jasper.ai)",
+    "price": "$0.05 per call (marketplace unit price)",
+    "filepath": "../services/clipdrop--jasper-ai-.service.js"
+  },
+  {
+    "id": "cloudinary",
+    "name": "Cloudinary Image and Video APIs",
+    "provider": "Cloudinary",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/cloudinary.service.js"
+  },
+  {
+    "id": "codezic",
+    "name": "URL Metadata Extraction API",
+    "provider": "codezic",
+    "price": "$0.0005 per call (marketplace unit price)",
+    "filepath": "../services/codezic.service.js"
+  },
+  {
+    "id": "coinapi",
+    "name": "CoinAPI Cryptocurrency APIs",
+    "provider": "CoinAPI",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/coinapi.service.js"
+  },
+  {
+    "id": "coingecko",
+    "name": "CoinGecko API",
+    "provider": "CoinGecko",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/coingecko.service.js"
+  },
+  {
+    "id": "coinmarketcap",
+    "name": "CoinMarketCap API",
+    "provider": "CoinMarketCap",
+    "price": "$0.0002 per call (marketplace unit price)",
+    "filepath": "../services/coinmarketcap.service.js"
+  },
+  {
+    "id": "data-apis-1",
+    "name": "SEC Event Intelligence API",
+    "provider": "data-apis-1",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/data-apis-1.service.js"
+  },
+  {
+    "id": "detectzestack",
+    "name": "DetectZeStack: Identify Website Tech Stacks",
+    "provider": "detectzestack",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/detectzestack.service.js"
+  },
+  {
+    "id": "devtoolbox",
+    "name": "Generate QR Codes with Customization | QR Code Generator API",
+    "provider": "devtoolbox",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/devtoolbox.service.js"
+  },
+  {
+    "id": "diyortech",
+    "name": "Instagram Post, Reels & Stories Downloader API",
+    "provider": "diyortech",
+    "price": "$0.0005 per call (marketplace unit price)",
+    "filepath": "../services/diyortech.service.js"
+  },
+  {
+    "id": "draco-ai",
+    "name": "Only $10 for Unlimited AI Models",
+    "provider": "draco-ai",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/draco-ai.service.js"
+  },
+  {
+    "id": "eiconstela",
+    "name": "Twitter/X Screenshot API",
+    "provider": "eiconstela",
+    "price": "$0.0005 per call (marketplace unit price)",
+    "filepath": "../services/eiconstela.service.js"
+  },
+  {
+    "id": "eodhd---unicorn-data-services",
+    "name": "EODHD Financial APIs",
+    "provider": "EODHD / Unicorn Data Services",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/eodhd---unicorn-data-services.service.js"
+  },
+  {
+    "id": "evanvandalen",
+    "name": "Global Digital Nomad Visa Intelligence API",
+    "provider": "evanvandalen",
+    "price": "$0.002 per call (marketplace unit price)",
+    "filepath": "../services/evanvandalen.service.js"
+  },
+  {
+    "id": "expedia-group",
+    "name": "Rapid API",
+    "provider": "Expedia Group",
+    "price": "$0.01 per call (marketplace unit price)",
+    "filepath": "../services/expedia-group.service.js"
+  },
+  {
+    "id": "factory-intellig",
+    "name": "Local Business Opportunity Finder API",
+    "provider": "factory-intellig",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/factory-intellig.service.js"
+  },
+  {
+    "id": "finlight",
+    "name": "finlight: Real-Time Financial News API",
+    "provider": "finlight",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/finlight.service.js"
+  },
+  {
+    "id": "finnhub",
+    "name": "Finnhub Stock API",
+    "provider": "Finnhub",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/finnhub.service.js"
+  },
+  {
+    "id": "flash-ai",
+    "name": "OpenAI | All Models",
+    "provider": "flash-ai",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/flash-ai.service.js"
+  },
+  {
+    "id": "flashrelay",
+    "name": "Gemini 3.1 Flash Lite API Relay",
+    "provider": "flashrelay",
+    "price": "$0.002 per call (marketplace unit price)",
+    "filepath": "../services/flashrelay.service.js"
+  },
+  {
+    "id": "flightaware",
+    "name": "AeroAPI",
+    "provider": "FlightAware",
+    "price": "$0.002 per call (marketplace unit price)",
+    "filepath": "../services/flightaware.service.js"
+  },
+  {
+    "id": "geoapify",
+    "name": "Geoapify Location Platform APIs",
+    "provider": "Geoapify",
+    "price": "$0.0002 per call (marketplace unit price)",
+    "filepath": "../services/geoapify.service.js"
+  },
+  {
+    "id": "glowhalo",
+    "name": "Link Preview API",
+    "provider": "glowhalo",
+    "price": "$0.0005 per call (marketplace unit price)",
+    "filepath": "../services/glowhalo.service.js"
+  },
+  {
+    "id": "google-cloud",
+    "name": "Google Cloud Vision API",
+    "provider": "Google Cloud",
+    "price": "$0.0015 per call (marketplace unit price)",
+    "filepath": "../services/google-cloud.service.js"
+  },
+  {
+    "id": "google-maps-platform",
+    "name": "Google Maps Distance Matrix API (Legacy)",
+    "provider": "Google Maps Platform",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/google-maps-platform.service.js"
+  },
+  {
+    "id": "google",
+    "name": "Nano Banana Pro Image Generation & Editing",
+    "provider": "google",
+    "price": "$0.15 per call (marketplace unit price)",
+    "filepath": "../services/google.service.js"
+  },
+  {
+    "id": "hbx-group---hotelbeds",
+    "name": "HBX Group API Suite (Hotelbeds APItude)",
+    "provider": "HBX Group / Hotelbeds",
+    "price": "$0.01 per call (marketplace unit price)",
+    "filepath": "../services/hbx-group---hotelbeds.service.js"
+  },
+  {
+    "id": "henry-ai",
+    "name": "DeepSeek V4 Flash 0731 API",
+    "provider": "henry-ai",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/henry-ai.service.js"
+  },
+  {
+    "id": "herazur",
+    "name": "Digital Product Opportunity Radar API",
+    "provider": "herazur",
+    "price": "$0.01 per call (marketplace unit price)",
+    "filepath": "../services/herazur.service.js"
+  },
+  {
+    "id": "here-technologies",
+    "name": "HERE Public Transit API v8",
+    "provider": "HERE Technologies",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/here-technologies.service.js"
+  },
+  {
+    "id": "hhonlineventures",
+    "name": "Enforcement Ledger: Contractor License Enforcement Records API",
+    "provider": "hhonlineventures",
+    "price": "$0.003 per call (marketplace unit price)",
+    "filepath": "../services/hhonlineventures.service.js"
+  },
+  {
+    "id": "hvcapis",
+    "name": "Government Revenue Dependency Score API",
+    "provider": "hvcapis",
+    "price": "$0.0005 per call (marketplace unit price)",
+    "filepath": "../services/hvcapis.service.js"
+  },
+  {
+    "id": "imgix",
+    "name": "Imgix Image Processing Platform",
+    "provider": "Imgix",
+    "price": "$0.25 per call (marketplace unit price)",
+    "filepath": "../services/imgix.service.js"
+  },
+  {
+    "id": "innovative-logix",
+    "name": "RRULE API",
+    "provider": "innovative-logix",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/innovative-logix.service.js"
+  },
+  {
+    "id": "janney",
+    "name": "Influencer & Creator Search API",
+    "provider": "janney",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/janney.service.js"
+  },
+  {
+    "id": "kaminoweb",
+    "name": "Easy Lorem Ipsum API",
+    "provider": "kaminoweb",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/kaminoweb.service.js"
+  },
+  {
+    "id": "kelewenai",
+    "name": "DeepSeek API | OpenAI-Compatible Chat & Reasoning",
+    "provider": "kelewenai",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/kelewenai.service.js"
+  },
+  {
+    "id": "learnapplybuild",
+    "name": "AI PPT Generation",
+    "provider": "learnapplybuild",
+    "price": "$0.049 per call (marketplace unit price)",
+    "filepath": "../services/learnapplybuild.service.js"
+  },
+  {
+    "id": "live-tennis-api",
+    "name": "Live Scores & AI Predictions with Live Tennis Data & Analytics API",
+    "provider": "live-tennis-api",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/live-tennis-api.service.js"
+  },
+  {
+    "id": "lulzasaur",
+    "name": "SEC EDGAR Insider Trading Alerts API",
+    "provider": "lulzasaur",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/lulzasaur.service.js"
+  },
+  {
+    "id": "lvyapi-1",
+    "name": "LvyAI Chat API",
+    "provider": "lvyapi-1",
+    "price": "$0.003 per call (marketplace unit price)",
+    "filepath": "../services/lvyapi-1.service.js"
+  },
+  {
+    "id": "magicapi",
+    "name": "Ultra-Fast Image Background Remover API (rembg)",
+    "provider": "MagicAPI",
+    "price": "$0.05 per call (marketplace unit price)",
+    "filepath": "../services/magicapi.service.js"
+  },
+  {
+    "id": "manowar-online",
+    "name": "PlantPair API",
+    "provider": "manowar-online",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/manowar-online.service.js"
+  },
+  {
+    "id": "mapbox",
+    "name": "Mapbox Optimization API",
+    "provider": "Mapbox",
+    "price": "$0.002 per call (marketplace unit price)",
+    "filepath": "../services/mapbox.service.js"
+  },
+  {
+    "id": "marketplace",
+    "name": "marketplace.service.js",
+    "provider": "Unknown",
+    "price": "$0.00",
+    "filepath": "../services/marketplace.service.js"
+  },
+  {
+    "id": "matchbook-labs",
+    "name": "NFL Scores Lookup",
+    "provider": "matchbook-labs",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/matchbook-labs.service.js"
+  },
+  {
+    "id": "nicheapi-llc-1",
+    "name": "Access Real-time EV Charging Data & Optimize Routes with EV Charge API",
+    "provider": "nicheapi-llc-1",
+    "price": "$0.002 per call (marketplace unit price)",
+    "filepath": "../services/nicheapi-llc-1.service.js"
+  },
+  {
+    "id": "ocr-space",
+    "name": "OCR API",
+    "provider": "OCR.Space",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/ocr-space.service.js"
+  },
+  {
+    "id": "openrouteservice--giscience-heigit-",
+    "name": "openrouteservice Time-Distance Matrix",
+    "provider": "openrouteservice (GIScience/HeiGIT)",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/openrouteservice--giscience-heigit-.service.js"
+  },
+  {
+    "id": "ozguro",
+    "name": "GPT-5.6 Sol Coding & Reasoning API",
+    "provider": "ozguro",
+    "price": "$0.01 per call (marketplace unit price)",
+    "filepath": "../services/ozguro.service.js"
+  },
+  {
+    "id": "pattrickx",
+    "name": "News Scraper API",
+    "provider": "pattrickx",
+    "price": "$0.01 per call (marketplace unit price)",
+    "filepath": "../services/pattrickx.service.js"
+  },
+  {
+    "id": "payment",
+    "name": "payment.service.js",
+    "provider": "Unknown",
+    "price": "$0.00",
+    "filepath": "../services/payment.service.js"
+  },
+  {
+    "id": "pinpointed",
+    "name": "Pinpointed Drinks Intelligence API",
+    "provider": "pinpointed",
+    "price": "$0.01 per call (marketplace unit price)",
+    "filepath": "../services/pinpointed.service.js"
+  },
+  {
+    "id": "pipfeed",
+    "name": "News Article Data Extract and Summarization API (Article-to-JSON)",
+    "provider": "pipfeed",
+    "price": "$0.0005 per call (marketplace unit price)",
+    "filepath": "../services/pipfeed.service.js"
+  },
+  {
+    "id": "polygon-io",
+    "name": "Polygon.io Stock Market API",
+    "provider": "polygon.io",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/polygon-io.service.js"
+  },
+  {
+    "id": "quickpod",
+    "name": "Image Tools API",
+    "provider": "Quickpod",
+    "price": "$0.05 per call (marketplace unit price)",
+    "filepath": "../services/quickpod.service.js"
+  },
+  {
+    "id": "quotalink",
+    "name": "Color Tools API",
+    "provider": "quotalink",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/quotalink.service.js"
+  },
+  {
+    "id": "recodex",
+    "name": "SKAlpha",
+    "provider": "recodex",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/recodex.service.js"
+  },
+  {
+    "id": "remove-bg",
+    "name": "Remove.bg API",
+    "provider": "remove.bg",
+    "price": "$0.05 per call (marketplace unit price)",
+    "filepath": "../services/remove-bg.service.js"
+  },
+  {
+    "id": "routify",
+    "name": "Routify API – Optimize Routes & Get Smart ETA Solutions",
+    "provider": "routify",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/routify.service.js"
+  },
+  {
+    "id": "sabre",
+    "name": "Sabre GDS APIs",
+    "provider": "Sabre",
+    "price": "$0.05 per call (marketplace unit price)",
+    "filepath": "../services/sabre.service.js"
+  },
+  {
+    "id": "saverapi",
+    "name": "Instagram Media Downloader API",
+    "provider": "saverapi",
+    "price": "$0.0005 per call (marketplace unit price)",
+    "filepath": "../services/saverapi.service.js"
+  },
+  {
+    "id": "scriptmasterlabs",
+    "name": "Script Master Labs x402 Data API",
+    "provider": "scriptmasterlabs",
+    "price": "$0.0005 per call (marketplace unit price)",
+    "filepath": "../services/scriptmasterlabs.service.js"
+  },
+  {
+    "id": "se-ranking",
+    "name": "SEO & AI Search Data API",
+    "provider": "se-ranking",
+    "price": "$0.01 per call (marketplace unit price)",
+    "filepath": "../services/se-ranking.service.js"
+  },
+  {
+    "id": "self-1",
+    "name": "Reddit Data API",
+    "provider": "self-1",
+    "price": "$0.002 per call (marketplace unit price)",
+    "filepath": "../services/self-1.service.js"
+  },
+  {
+    "id": "serplib",
+    "name": "Real-time SERP Data / SerpLib API",
+    "provider": "serplib",
+    "price": "$0.0005 per call (marketplace unit price)",
+    "filepath": "../services/serplib.service.js"
+  },
+  {
+    "id": "sharpapi-com",
+    "name": "Airports Database & Flight Duration API",
+    "provider": "sharpapi.com",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/sharpapi-com.service.js"
+  },
+  {
+    "id": "siftingio",
+    "name": "SiftingIO Market Data",
+    "provider": "siftingio",
+    "price": "$0.002 per call (marketplace unit price)",
+    "filepath": "../services/siftingio.service.js"
+  },
+  {
+    "id": "sitetrace",
+    "name": "Web Summarizer & Reader API",
+    "provider": "sitetrace",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/sitetrace.service.js"
+  },
+  {
+    "id": "skycraft",
+    "name": "Search Web API",
+    "provider": "skycraft",
+    "price": "$0.0005 per call (marketplace unit price)",
+    "filepath": "../services/skycraft.service.js"
+  },
+  {
+    "id": "skyscanner",
+    "name": "Skyscanner Travel APIs",
+    "provider": "Skyscanner",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/skyscanner.service.js"
+  },
+  {
+    "id": "swift-api",
+    "name": "Swift AI",
+    "provider": "swift-api",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/swift-api.service.js"
+  },
+  {
+    "id": "tavily-ai",
+    "name": "Tavily API",
+    "provider": "tavily-ai",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/tavily-ai.service.js"
+  },
+  {
+    "id": "tinyopsstudio",
+    "name": "Automation Integration Preflight API",
+    "provider": "tinyopsstudio",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/tinyopsstudio.service.js"
+  },
+  {
+    "id": "tokenmax",
+    "name": "RedBTC AI Gateway API",
+    "provider": "tokenmax",
+    "price": "$0.002 per call (marketplace unit price)",
+    "filepath": "../services/tokenmax.service.js"
+  },
+  {
+    "id": "tomtom",
+    "name": "TomTom Traffic Incidents API Details",
+    "provider": "TomTom",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/tomtom.service.js"
+  },
+  {
+    "id": "trueway",
+    "name": "Trueway Routing API",
+    "provider": "trueway",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/trueway.service.js"
+  },
+  {
+    "id": "twelve-data",
+    "name": "Twelve Data API",
+    "provider": "Twelve Data",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/twelve-data.service.js"
+  },
+  {
+    "id": "unify",
+    "name": "Unify.ai",
+    "provider": "unify",
+    "price": "$0.003 per call (marketplace unit price)",
+    "filepath": "../services/unify.service.js"
+  },
+  {
+    "id": "valitype",
+    "name": "WebShot API — Website Screenshots with Smart Cookie Blocking",
+    "provider": "valitype",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/valitype.service.js"
+  },
+  {
+    "id": "veer-hanuman-1",
+    "name": "Airbnb - Stay Search & Listing Details API",
+    "provider": "veer-hanuman-1",
+    "price": "$0.005 per call (marketplace unit price)",
+    "filepath": "../services/veer-hanuman-1.service.js"
+  },
+  {
+    "id": "versusmedia",
+    "name": "Beach Day API",
+    "provider": "versusmedia",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/versusmedia.service.js"
+  },
+  {
+    "id": "viv-data",
+    "name": "UUID Generator — v1, v4, Batch Generation",
+    "provider": "viv-data",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/viv-data.service.js"
+  },
+  {
+    "id": "wallet",
+    "name": "wallet.service.js",
+    "provider": "Unknown",
+    "price": "$0.00",
+    "filepath": "../services/wallet.service.js"
+  },
+  {
+    "id": "walletfinder-ai",
+    "name": "DeFi and crypto wallet analytics for Solana, Ethereum and Base",
+    "provider": "walletfinder.ai",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/walletfinder-ai.service.js"
+  },
+  {
+    "id": "winter-hazel-inc",
+    "name": "Optimize Python Data Types: Cut Cloud Bills 30-75% with slimdata API",
+    "provider": "winter-hazel-inc",
+    "price": "$0.038 per call (marketplace unit price)",
+    "filepath": "../services/winter-hazel-inc.service.js"
+  },
+  {
+    "id": "wiplash-labs",
+    "name": "Labeloo Label PDF API",
+    "provider": "wiplash-labs",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/wiplash-labs.service.js"
+  },
+  {
+    "id": "xdata",
+    "name": "X (Twitter) Profiles & Tweets Data API",
+    "provider": "xdata",
+    "price": "$0.001 per call (marketplace unit price)",
+    "filepath": "../services/xdata.service.js"
+  },
+  {
+    "id": "yakpdf",
+    "name": "A practical HTML to PDF API",
+    "provider": "yakpdf",
+    "price": "$0.0001 per call (marketplace unit price)",
+    "filepath": "../services/yakpdf.service.js"
+  }
+]

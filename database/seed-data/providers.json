@@ -1,0 +1,9 @@
+[
+  {
+    "id": "prov_1",
+    "name": "Data Oracle Inc",
+    "contactEmail": "contact@dataoracle.test",
+    "walletAddress": "ALGO_ORACLE_WALLET_ADDRESS",
+    "isActive": true
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "taskId": "demo_task_01",
+  "agentId": "agt_alpha1",
+  "description": "Analyze market trends for AI stocks and synthesize a risk report.",
+  "status": "pending"
+}

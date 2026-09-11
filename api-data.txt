@@ -1,0 +1,2595 @@
+1. AI Subscription — Multi Model API
+   Category: AI & Machine Learning
+   Provider: ai-subscription
+   Tag: gateway
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: $100/month (API.market category card; homepage separately shows 60 free units)
+   Description: Gateway to MiniMax M3 and DeepSeek V4 Flash through one developer API.
+   Source: https://api.market/store/ai-subscription/ai-subscription
+   Catalog ID: ai-subscription-multi-model
+
+2. BridgeML LLM API: 15+ Model Options
+   Category: AI & Machine Learning
+   Provider: bridgeml
+   Tag: llm-router
+   Price: $0.002 per call (marketplace unit price)
+   Rating: 5.0 (1 review)
+   Usage / plan notes: 100K free API units (API.market category card)
+   Description: High-speed, low-cost API offering more than 15 language-model options.
+   Source: https://api.market/store/bridgeml/llm
+   Catalog ID: bridgeml-llm
+
+3. Chat GPT 3.5 Turbo
+   Category: AI & Machine Learning
+   Provider: swift-api
+   Tag: chat
+   Price: $0.002 per call (marketplace unit price)
+   Rating: 1.0 (1 review)
+   Usage / plan notes: 10K free API units (API.market category card)
+   Description: High-availability GPT-3.5 Turbo endpoint with unlimited-call positioning.
+   Source: https://api.market/store/swift-api/gpt-3-5-turbo
+   Catalog ID: chatgpt-3-5-turbo
+
+4. Claude AI | All Models
+   Category: AI & Machine Learning
+   Provider: flash-ai
+   Tag: llm
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 3.7 (3 reviews)
+   Usage / plan notes: 10K free API units (API.market category card)
+   Description: API access to Claude-4, Claude-3.5, and other Claude models.
+   Source: https://api.market/store/flash-ai/claude
+   Catalog ID: claude-ai-all-models
+
+5. DeepSeek API | OpenAI-Compatible Chat & Reasoning
+   Category: AI & Machine Learning
+   Provider: kelewenai
+   Tag: openai-compatible
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: $10/month (API.market category card)
+   Description: Production-oriented DeepSeek chat and reasoning endpoint with streaming support.
+   Source: https://api.market/store/kelewenai/deepseek-api
+   Catalog ID: deepseek-openai-compatible
+
+6. DeepSeek V4 Flash 0731 API
+   Category: AI & Machine Learning
+   Provider: henry-ai
+   Tag: reasoning
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: $10/month (API.market category card)
+   Description: Fast OpenAI-compatible DeepSeek chat and reasoning API with streaming and up to 512K context.
+   Source: https://api.market/store/henry-ai/deepseek-v4-flash
+   Catalog ID: deepseek-v4-flash-0731
+
+7. DeepSeek V4 Flash High-Speed API Relay
+   Category: AI & Machine Learning
+   Provider: flashrelay
+   Tag: deepseek-relay
+   Price: $0.003 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 100 free API units (API.market category card)
+   Description: Fast, affordable OpenAI-compatible relay for DeepSeek V4 Flash.
+   Source: https://api.market/store/flashrelay/deepseek-v4-flash
+   Catalog ID: deepseek-v4-flash-relay
+
+8. Doubao Seed 2.0 Mini API Relay
+   Category: AI & Machine Learning
+   Provider: flashrelay
+   Tag: multimodal
+   Price: $0.002 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 10K free API units (API.market category card)
+   Description: ByteDance Doubao Seed 2.0 Mini relay designed for low cost and high concurrency.
+   Source: https://api.market/store/flashrelay/doubao-seed-2-0-mini-260428
+   Catalog ID: doubao-seed-2-mini-relay
+
+9. Gemini 3.1 Flash Lite API Relay
+   Category: AI & Machine Learning
+   Provider: flashrelay
+   Tag: gemini-relay
+   Price: $0.002 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 10K free API units (API.market category card)
+   Description: Low-latency Gemini Flash Lite relay with direct China connectivity.
+   Source: https://api.market/store/flashrelay/gemini-flash-lite
+   Catalog ID: gemini-flash-lite-relay
+
+10. Gemini AI | All Models
+   Category: AI & Machine Learning
+   Provider: flash-ai
+   Tag: gemini
+   Price: $0.003 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 10K free API units (API.market category card)
+   Description: Direct API access to current Gemini model families with a stated 50% discount.
+   Source: https://api.market/store/flash-ai/gemini
+   Catalog ID: gemini-ai-all-models
+
+11. Generate Images with nano banana flash
+   Category: AI & Machine Learning
+   Provider: google
+   Tag: image-gen
+   Price: $0.039 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: $0.039 per image (API.market category card)
+   Description: Image generation from text or image references using the Gemini 2.5 Flash Image model.
+   Source: https://api.market/store/google/nano-banana-flash
+   Catalog ID: nano-banana-flash
+
+12. GPT 4.1-Nano
+   Category: AI & Machine Learning
+   Provider: swift-api
+   Tag: tool-calling
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 100K free API units (API.market category card)
+   Description: Low-latency GPT-4.1 nano model for instruction following and tool calling with a 1M-token context window.
+   Source: https://api.market/store/swift-api/gpt-4-1-nano
+   Catalog ID: gpt-4-1-nano
+
+13. GPT-4.1
+   Category: AI & Machine Learning
+   Provider: swift-api
+   Tag: general-llm
+   Price: $0.008 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 1K free API units (API.market category card)
+   Description: GPT-4.1 model for instruction following and tool calling with broad knowledge and 1M-token context.
+   Source: https://api.market/store/swift-api/gpt-4-1
+   Catalog ID: gpt-4-1
+
+14. GPT-4.1 mini
+   Category: AI & Machine Learning
+   Provider: swift-api
+   Tag: tool-calling
+   Price: $0.003 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 1K free API units (API.market category card)
+   Description: Low-latency GPT-4.1 mini for instruction following and tool calling with 1M-token context.
+   Source: https://api.market/store/swift-api/gpt-4-1-mini
+   Catalog ID: gpt-4-1-mini
+
+15. GPT-4o
+   Category: AI & Machine Learning
+   Provider: swift-api
+   Tag: multimodal
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 5.0 (1 review)
+   Usage / plan notes: $1/month (API.market category card)
+   Description: Multimodal GPT-4 Omni model accepting text or images and returning text.
+   Source: https://api.market/store/swift-api/gpt4o
+   Catalog ID: gpt-4o
+
+16. GPT-5
+   Category: AI & Machine Learning
+   Provider: swift-api
+   Tag: flagship
+   Price: $0.01 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 1K free API units (API.market category card)
+   Description: OpenAI flagship model for coding, reasoning, and agentic tasks.
+   Source: https://api.market/store/swift-api/gpt-5
+   Catalog ID: gpt-5
+
+17. GPT-5 mini
+   Category: AI & Machine Learning
+   Provider: swift-api
+   Tag: efficient-llm
+   Price: $0.003 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 1K free API units (API.market category card)
+   Description: Faster, more cost-efficient GPT-5 variant for well-defined tasks and precise prompts.
+   Source: https://api.market/store/swift-api/gpt-5-mini
+   Catalog ID: gpt-5-mini
+
+18. GPT-5 nano
+   Category: AI & Machine Learning
+   Provider: swift-api
+   Tag: fast-llm
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 4.5 (2 reviews)
+   Usage / plan notes: 10K free API units (API.market category card)
+   Description: Fast, low-cost GPT-5 variant for summarization and classification.
+   Source: https://api.market/store/swift-api/gpt-5-nano
+   Catalog ID: gpt-5-nano
+
+19. GPT-5.2
+   Category: AI & Machine Learning
+   Provider: swift-api
+   Tag: reasoning
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 4.3 (3 reviews)
+   Usage / plan notes: 10K free API units (API.market category card)
+   Description: GPT-5.2 API aimed at coding and agentic task automation.
+   Source: https://api.market/store/swift-api/gpt-5-2
+   Catalog ID: gpt-5-2
+
+20. GPT-5.6 Sol Coding & Reasoning API
+   Category: AI & Machine Learning
+   Provider: ozguro
+   Tag: coding
+   Price: $0.01 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 3 free API units (API.market category card)
+   Description: OpenAI-compatible GPT-5.6 Sol endpoint for coding and reasoning clients.
+   Source: https://api.market/store/ozguro/gpt-5-6-sol-coding-api
+   Catalog ID: gpt-5-6-sol-coding
+
+21. GPU Chat API
+   Category: AI & Machine Learning
+   Provider: quickpod
+   Tag: gpu-chat
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 100 free API units (API.market category card)
+   Description: OpenAI-compatible chat completions backed by a remote GPU cluster.
+   Source: https://api.market/store/quickpod/aiquick-chat
+   Catalog ID: aiquick-chat
+
+22. Hallucination Guard API
+   Category: AI & Machine Learning
+   Provider: nicheapi-llc-1
+   Tag: safety
+   Price: $0.01 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: $29/month (API.market category card)
+   Description: API for detecting and preventing LLM hallucinations using taxonomy, benchmarks, and detection methods.
+   Source: https://api.market/store/nicheapi-llc-1/hallucinationguard
+   Catalog ID: hallucination-guard
+
+23. HydraAI Models Gateway
+   Category: AI & Machine Learning
+   Provider: api-shop
+   Tag: model-gateway
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 10 free API units (API.market category card)
+   Description: OpenAI-compatible gateway to 78 models including GPT-4, Claude, Gemini, DeepSeek, Qwen, and Mistral.
+   Source: https://api.market/store/api-shop/hydraai
+   Catalog ID: hydraai-models-gateway
+
+24. LvyAI Chat API
+   Category: AI & Machine Learning
+   Provider: lvyapi-1
+   Tag: chat-router
+   Price: $0.003 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 1K free API units (API.market category card)
+   Description: OpenAI-compatible chat completions using GLM-4, Qwen-Turbo, and DeepSeek models.
+   Source: https://api.market/store/lvyapi-1/chat-api
+   Catalog ID: lvyai-chat
+
+25. Nano Banana 2 Image Generation & Editing
+   Category: AI & Machine Learning
+   Provider: google
+   Tag: image-editing
+   Price: $0.067 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: $0.067 per API unit (API.market category card)
+   Description: Gemini 3.1 Flash Image preview API for fast text-based creation and iterative image editing.
+   Source: https://api.market/store/google/image-generation-editing-google-nano-banana-2
+   Catalog ID: nano-banana-2
+
+26. Nano Banana Pro Image Generation & Editing
+   Category: AI & Machine Learning
+   Provider: google
+   Tag: image-gen
+   Price: $0.15 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: $0.15 per API unit (API.market category card)
+   Description: Gemini 3 Pro Image preview API for photorealistic generation and reference-image editing.
+   Source: https://api.market/store/google/nano-banana-pro
+   Catalog ID: nano-banana-pro
+
+27. Nyari AI — Advanced Text Generation API
+   Category: AI & Machine Learning
+   Provider: blackflamestudio-2
+   Tag: text-gen
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: $5/month (API.market category card)
+   Description: REST API for human-like text generation, complex question answering, and AI applications.
+   Source: https://api.market/store/blackflamestudio-2/nyari-api
+   Catalog ID: nyari-ai
+
+28. Only $10 for Unlimited AI Models
+   Category: AI & Machine Learning
+   Provider: draco-ai
+   Tag: subscription
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 50 free API units (API.market category card)
+   Description: Subscription-style access to a range of AI models for a flat monthly cost.
+   Source: https://api.market/store/draco-ai/unlimited-ai-model
+   Catalog ID: unlimited-ai-models
+
+29. OpenAI | All Models
+   Category: AI & Machine Learning
+   Provider: flash-ai
+   Tag: openai
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 10K free API units (API.market category card)
+   Description: Relay for GPT-5.6 Sol, Terra, Luna, GPT-4.1, and GPT-4o models.
+   Source: https://api.market/store/flash-ai/openai
+   Catalog ID: openai-all-models
+
+30. OpenAI SDK
+   Category: AI & Machine Learning
+   Provider: swift-api
+   Tag: multi-model
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 3.7 (3 reviews)
+   Usage / plan notes: $1/month (API.market category card)
+   Description: Unified access to models from OpenAI, Claude, Google Gemini, and Meta Llama.
+   Source: https://api.market/store/swift-api/openai
+   Catalog ID: openai-sdk
+
+31. RedBTC AI Gateway API
+   Category: AI & Machine Learning
+   Provider: tokenmax
+   Tag: token-gateway
+   Price: $0.002 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 10K free API units (API.market category card)
+   Description: OpenAI-compatible GPT-style API with low-cost token billing and metering.
+   Source: https://api.market/store/tokenmax/redbtc-ai-gateway
+   Catalog ID: redbtc-ai-gateway
+
+32. Swift AI
+   Category: AI & Machine Learning
+   Provider: swift-api
+   Tag: router
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 10K free API units (API.market category card)
+   Description: Multi-model API covering OpenAI, Claude, Google Gemini, and Meta Llama.
+   Source: https://api.market/store/swift-api/swift-ai
+   Catalog ID: swift-ai
+
+33. Translate API (LibreTranslate)
+   Category: AI & Machine Learning
+   Provider: quickpod
+   Tag: translation
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 1K free API units (API.market category card)
+   Description: Text translation and language detection powered by the open-source LibreTranslate engine.
+   Source: https://api.market/store/quickpod/aiquick-translate
+   Catalog ID: libretranslate
+
+34. Unify.ai
+   Category: AI & Machine Learning
+   Provider: unify
+   Tag: llm-routing
+   Price: $0.003 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 100 free API units (API.market category card)
+   Description: Centralized platform for routing across LLM endpoints.
+   Source: https://api.market/store/unify/unify
+   Catalog ID: unify-ai
+
+35. Airbnb Market Stats Lookup
+   Category: Data & Analytics
+   Provider: matchbook-labs
+   Tag: market data
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 100 FREE API units; homepage card also shows $0.001 per API unit
+   Description: Airbnb listing statistics for six US cities, including nightly-price medians, percentiles, room-type mix and neighborhood breakdowns.
+   Source: https://api.market/store/matchbook-labs/airbnb-six-cities
+   Catalog ID: airbnb-market-stats
+
+36. AllSports API
+   Category: Data & Analytics
+   Provider: recodex
+   Tag: sports data
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 5.0 (2)
+   Usage / plan notes: 150 FREE API units
+   Description: Real-time football, esports, motorsport, ice hockey, basketball, tennis, baseball, cricket and American football scores.
+   Source: https://api.market/store/recodex/allsportsapi
+   Catalog ID: allsports-api
+
+37. Company Info Lookup — Wikidata, Global Coverage
+   Category: Data & Analytics
+   Provider: viv-data
+   Tag: company data
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 50 FREE API units; listing description says free unlimited lookups
+   Description: Searches global companies through Wikidata and returns detailed company profiles.
+   Source: https://api.market/store/viv-data/company-info
+   Catalog ID: company-info
+
+38. Copart & IAAI API insurance auctions
+   Category: Data & Analytics
+   Provider: carstat
+   Tag: vehicle data
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 10 FREE API units
+   Description: Searches active Copart and IAAI vehicles in the US and Canada with VIN/lot lookup, photos, auction data, archives and statistics.
+   Source: https://api.market/store/carstat/copart-iaai-api
+   Catalog ID: copart-iaai-auctions
+
+39. Country Info API
+   Category: Data & Analytics
+   Provider: quotalink
+   Tag: country data
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 100 FREE API units
+   Description: Combines country population, currency, exchange rates, holidays and Wikipedia summary data.
+   Source: https://api.market/store/quotalink/country-info-api
+   Catalog ID: country-info
+
+40. Currency Converter
+   Category: Data & Analytics
+   Provider: viv-data
+   Tag: financial data
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 50 FREE API units
+   Description: Converts between more than 160 global currencies using live exchange rates.
+   Source: https://api.market/store/viv-data/currency-converter
+   Catalog ID: currency-converter
+
+41. Detect Gender by Name API
+   Category: Data & Analytics
+   Provider: skycraft
+   Tag: demographic data
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 5.0 (1)
+   Usage / plan notes: $7/month
+   Description: Estimates the probable gender associated with a name using historical usage patterns.
+   Source: https://api.market/store/skycraft/detect-gender
+   Catalog ID: detect-gender-by-name
+
+42. Digital Product Opportunity Radar API
+   Category: Data & Analytics
+   Provider: herazur
+   Tag: market intelligence
+   Price: $0.01 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 2 FREE API units
+   Description: Finds evidence-backed digital-product opportunities using Etsy market signals and optional Pinterest trend validation.
+   Source: https://api.market/store/herazur/digital-product-radar
+   Catalog ID: digital-product-radar
+
+43. Document & Data API
+   Category: Data & Analytics
+   Provider: quickpod
+   Tag: data extraction
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 100 FREE API units
+   Description: Parses documents and transforms data from PDFs, HTML, files and structured data formats.
+   Source: https://api.market/store/quickpod/aiquck-document
+   Catalog ID: document-data
+
+44. Domain Authority Pagerank
+   Category: Data & Analytics
+   Provider: quickpod
+   Tag: SEO metrics
+   Price: $0.003 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 1K FREE API units
+   Description: Returns production-grade domain-authority and PageRank-style metrics for domains and hosts.
+   Source: https://api.market/store/quickpod/aiquick-pagerank
+   Catalog ID: domain-authority-pagerank
+
+45. Domain Lookup API
+   Category: Data & Analytics
+   Provider: glowhalo
+   Tag: domain data
+   Price: $0.003 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: $9/month
+   Description: Looks up domain registration details such as registrar, dates and name servers through RDAP, the successor to WHOIS.
+   Source: https://api.market/store/glowhalo/domain-lookup
+   Catalog ID: domain-lookup-rdap
+
+46. Domain Profile API
+   Category: Data & Analytics
+   Provider: quickpod
+   Tag: domain intelligence
+   Price: $0.003 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 100 FREE API units
+   Description: Provides comprehensive URL and domain profiling.
+   Source: https://api.market/store/quickpod/aiquick-domain-profile
+   Catalog ID: domain-profile
+
+47. Domain WHOIS API — RDAP Lookup, Instant Results
+   Category: Data & Analytics
+   Provider: viv-data
+   Tag: domain data
+   Price: $0.003 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: $10/month
+   Description: Returns domain registration information through RDAP, including registrar, creation, expiration and nameserver data.
+   Source: https://api.market/store/viv-data/domain-whois
+   Catalog ID: domain-whois-rdap
+
+48. Earthquake API
+   Category: Data & Analytics
+   Provider: quotalink
+   Tag: geophysical data
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 100 FREE API units
+   Description: Real-time global earthquake data from USGS searchable by location, magnitude and time.
+   Source: https://api.market/store/quotalink/earthquake-api
+   Catalog ID: earthquake
+
+49. Enforcement Ledger: Contractor License Enforcement Records API
+   Category: Data & Analytics
+   Provider: hhonlineventures
+   Tag: public records
+   Price: $0.003 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 250 FREE API units
+   Description: Provides archived contractor-license board orders, revocations, suspensions and citations across 11 US states.
+   Source: https://api.market/store/hhonlineventures/enforcement-ledger
+   Catalog ID: contractor-enforcement-ledger
+
+50. EU VAT Validator
+   Category: Data & Analytics
+   Provider: viv-data
+   Tag: compliance data
+   Price: $0.002 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 10 FREE API units
+   Description: Validates EU VAT numbers through official VIES and returns company details for EU member states plus the UK.
+   Source: https://api.market/store/viv-data/vat-validator
+   Catalog ID: vat-validator
+
+51. Feed Change & Health Monitor
+   Category: Data & Analytics
+   Provider: businesslab
+   Tag: feed monitoring
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 5 FREE API units
+   Description: Monitors RSS, Atom, RDF and JSON feeds for health plus new and changed-item events.
+   Source: https://api.market/store/businesslab/feed-change-health-monitor
+   Catalog ID: feed-change-health-monitor
+
+52. Festival API
+   Category: Data & Analytics
+   Provider: versusmedia
+   Tag: event data
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 100 FREE API units
+   Description: Worldwide film-festival discovery with deadlines, fees, rosters, programming profiles, scoring and calendar data.
+   Source: https://api.market/store/versusmedia/festival-api
+   Catalog ID: festival
+
+53. Get Real-time SERP Data: Fast Results with SerpLib API
+   Category: Data & Analytics
+   Provider: serplib
+   Tag: SERP data
+   Price: $0.002 per call (marketplace unit price)
+   Rating: 5.0 (1)
+   Usage / plan notes: 100 FREE API units
+   Description: Returns comprehensive Google search results as structured JSON, with the listing stating delivery in under two seconds.
+   Source: https://api.market/store/serplib/serp
+   Catalog ID: serplib-serp
+
+54. India Gold & Silver Rate API
+   Category: Data & Analytics
+   Provider: veer-hanuman-1
+   Tag: commodities data
+   Price: $0.003 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 50 FREE API units
+   Description: Real-time gold and silver prices, historical trends, city-wise rates and all-India bullion data.
+   Source: https://api.market/store/veer-hanuman-1/india-gold-silver-rate
+   Catalog ID: india-gold-silver-rate
+
+55. Influencer & Creator Search API
+   Category: Data & Analytics
+   Provider: janney
+   Tag: creator intelligence
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 25 FREE API units
+   Description: Searches Instagram, TikTok and YouTube creators by niche, country, followers and engagement, with verified emails and lookalikes.
+   Source: https://api.market/store/janney/influencer-search-api
+   Catalog ID: influencer-creator-search
+
+56. IP & Domain Intelligence API
+   Category: Data & Analytics
+   Provider: quickpod
+   Tag: network intelligence
+   Price: $0.003 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 1K FREE API units
+   Description: Performs live IP, domain WHOIS, domain-age and comprehensive DNS lookups using IANA/RIR registries.
+   Source: https://api.market/store/quickpod/aiquick-ip
+   Catalog ID: ip-domain-intelligence
+
+57. IP Geolocation API
+   Category: Data & Analytics
+   Provider: viv-data
+   Tag: geolocation data
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 50 FREE API units
+   Description: Looks up IP country, city, region, ISP and timezone details.
+   Source: https://api.market/store/viv-data/ipgeo
+   Catalog ID: ip-geolocation
+
+58. Keyword Intelligence
+   Category: Data & Analytics
+   Provider: quickpod
+   Tag: keyword data
+   Price: $0.003 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 100 FREE API units
+   Description: Discovers high-signal keyword opportunities from web-scale lookup data.
+   Source: https://api.market/store/quickpod/aiquick-keyword
+   Catalog ID: keyword-intelligence
+
+59. Link Preview API
+   Category: Data & Analytics
+   Provider: glowhalo
+   Tag: URL intelligence
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 1K FREE API units
+   Description: Extracts a URL's title, description, image and favicon in a fast cached call.
+   Source: https://api.market/store/glowhalo/link-preview-api
+   Catalog ID: link-preview
+
+60. Live Scores & AI Predictions with Live Tennis Data & Analytics API
+   Category: Data & Analytics
+   Provider: live-tennis-api
+   Tag: sports analytics
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: $10/month
+   Description: Real-time tennis scores, player data and AI win-probability analysis across major tours via REST and WebSocket.
+   Source: https://api.market/store/live-tennis-api/tennis-data-analytics
+   Catalog ID: live-tennis-data-analytics
+
+61. Local Business Opportunity Finder API
+   Category: Data & Analytics
+   Provider: factory-intellig
+   Tag: business intelligence
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: $9/month
+   Description: Finds and ranks local businesses with weak websites or missing conversion features and returns actionable sales opportunities.
+   Source: https://api.market/store/factory-intellig/local-business-opportunities
+   Catalog ID: local-business-opportunity
+
+62. News Article Data Extract and Summarization API | Article-to-JSON API | Pipfeed
+   Category: Data & Analytics
+   Provider: pipfeed
+   Tag: news data
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 5.0 (2)
+   Usage / plan notes: 500 FREE API units
+   Description: Converts news articles or text posts from a URL into clean JSON with title, summary, text and other properties.
+   Source: https://api.market/store/pipfeed/parse
+   Catalog ID: pipfeed-news-article-json
+
+63. NFL Scores Lookup
+   Category: Data & Analytics
+   Provider: matchbook-labs
+   Tag: sports data
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 100 FREE API units
+   Description: Historical NFL scores and betting lines for every season from 1999 through 2026, including spreads and totals.
+   Source: https://api.market/store/matchbook-labs/nfl-scores
+   Catalog ID: nfl-scores-lookup
+
+64. NPI Healthcare Provider Search API
+   Category: Data & Analytics
+   Provider: cblu
+   Tag: healthcare data
+   Price: $0.003 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 20 FREE API units
+   Description: Searches more than 8 million US healthcare providers in the official NPPES NPI Registry with live CMS data and ZIP fan-out.
+   Source: https://api.market/store/cblu/npi-healthcare-providers
+   Catalog ID: npi-healthcare-providers
+
+65. Phone Number Lookup — Carrier, Location, Type
+   Category: Data & Analytics
+   Provider: viv-data
+   Tag: identity data
+   Price: $0.002 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 50 FREE API units
+   Description: Validates and looks up global phone-number carrier, line type and location information using libphonenumber.
+   Source: https://api.market/store/viv-data/phone-lookup
+   Catalog ID: phone-lookup
+
+66. Pinpointed Drinks Intelligence API
+   Category: Data & Analytics
+   Provider: pinpointed
+   Tag: product intelligence
+   Price: $0.01 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: $99/month
+   Description: Provides sourced wine, spirits and beer data with entity resolution, legal/production facts, pairings and comparisons.
+   Source: https://api.market/store/pinpointed/pinpointed
+   Catalog ID: pinpointed-drinks-intelligence
+
+67. PlantPair API
+   Category: Data & Analytics
+   Provider: manowar-online
+   Tag: agriculture data
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 500 FREE API units
+   Description: Companion-planting data for gardens, farms and homesteads with more than 97,000 planting combinations.
+   Source: https://api.market/store/manowar-online/plantpair
+   Catalog ID: plantpair
+
+68. Reddit Data API
+   Category: Data & Analytics
+   Provider: self-1
+   Tag: social data
+   Price: $0.002 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 5K FREE API units
+   Description: Delivers public Reddit user, post and comment data as structured JSON with cursor-based pagination.
+   Source: https://api.market/store/self-1/reddit-data
+   Catalog ID: reddit-data
+
+69. Search Web API: Gather Market Intelligence for Competitive Insights
+   Category: Data & Analytics
+   Provider: skycraft
+   Tag: web search
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 5.0 (1)
+   Usage / plan notes: 1.5K FREE API units
+   Description: Queries the web and returns structured search results with titles, summaries and URLs for competitive research.
+   Source: https://api.market/store/skycraft/search-web
+   Catalog ID: search-web-market-intelligence
+
+70. SEO & AI Search Data API
+   Category: Data & Analytics
+   Provider: se-ranking
+   Tag: SEO intelligence
+   Price: $0.01 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: $25/month
+   Description: Provides structured SEO and AI-search data, including programmatic LLM-response monitoring and workflow insights.
+   Source: https://api.market/store/se-ranking/seo-and-ai-search-api
+   Catalog ID: seo-ai-search
+
+71. Stock Price API — Real-Time Quotes, Global Markets
+   Category: Data & Analytics
+   Provider: viv-data
+   Tag: market data
+   Price: $0.002 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 10 FREE API units
+   Description: Returns real-time global stock quotes including price, change, volume and market cap.
+   Source: https://api.market/store/viv-data/stock
+   Catalog ID: stock-price
+
+72. USAspending Federal Awards Search API
+   Category: Data & Analytics
+   Provider: cblu
+   Tag: government data
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 15 FREE API units
+   Description: Searches official USAspending.gov contracts, grants, loans and payments by recipient, amount, agency, NAICS/CFDA and address.
+   Source: https://api.market/store/cblu/usaspending-federal-awards
+   Catalog ID: usaspending-awards
+
+73. Vehicle Information India
+   Category: Data & Analytics
+   Provider: veer-hanuman-1
+   Tag: vehicle records
+   Price: $0.01 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 3 FREE API units
+   Description: Retrieves Indian vehicle RC details by registration number, including owner, insurance, PUC, permit and vehicle data.
+   Source: https://api.market/store/veer-hanuman-1/vehicle-information-india
+   Catalog ID: vehicle-information-india
+
+74. Weather API
+   Category: Data & Analytics
+   Provider: quotalink
+   Tag: weather data
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 100 FREE API units
+   Description: Real-time weather forecasts, air quality and geocoding for locations worldwide.
+   Source: https://api.market/store/quotalink/weather-api
+   Catalog ID: weather
+
+75. Word Tools API
+   Category: Data & Analytics
+   Provider: quotalink
+   Tag: language data
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: 100 FREE API units
+   Description: English word tools for synonyms, rhymes, related words, adjectives and autocomplete.
+   Source: https://api.market/store/quotalink/word-tools-api
+   Catalog ID: word-tools
+
+76. A practical HTML to PDF API
+   Category: Developer Tools
+   Provider: yakpdf
+   Tag: HTML to PDF
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Basic plan: 200 free API units
+   Description: Generate PDFs from HTML through a simple API.
+   Source: https://api.market/store/yakpdf/pdf
+   Catalog ID: dev-yakpdf-pdf
+
+77. AI PPT Generation
+   Category: Developer Tools
+   Provider: learnapplybuild
+   Tag: Presentations
+   Price: $0.049 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: BASIC plan: $49/month; 1000 API calls
+   Description: Generate PowerPoint presentations using AI.
+   Source: https://api.market/store/learnapplybuild/ppt
+   Catalog ID: dev-learnapplybuild-ppt
+
+78. AI QR Code Generator API
+   Category: Developer Tools
+   Provider: magicapi
+   Tag: AI QR
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 10 free API units
+   Description: Generate customized, scalable QR codes with an AI-powered API.
+   Source: https://api.market/store/magicapi/aiqrcode
+   Catalog ID: dev-magicapi-aiqrcode
+
+79. AIQuick Utils: Multi-tool for Encoding, Conversion, Generation & Security
+   Category: Developer Tools
+   Provider: quickpod
+   Tag: Utilities
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Pro plan: $25/month; 25000 API calls
+   Description: Perform encoding, conversion, generation, and security tasks with a high-performance multi-tool API.
+   Source: https://api.market/store/quickpod/aiquick-utils
+   Catalog ID: dev-quickpod-aiquick-utils
+
+80. Automation Integration Preflight API
+   Category: Developer Tools
+   Provider: tinyopsstudio
+   Tag: Automation
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: PAYG; per-call pricing not disclosed
+   Description: Inspect public pages for forms, API and webhook signals, security headers, robots rules, latency, and automation-readiness risks.
+   Source: https://api.market/store/tinyopsstudio/automation-preflight
+   Catalog ID: dev-tinyopsstudio-automation-preflight
+
+81. Barcode Generator API — Code128, EAN13, EAN8
+   Category: Developer Tools
+   Provider: viv-data
+   Tag: Barcodes
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Pro plan: $9.99/month; 10000 API calls
+   Description: Generate barcode images in PNG or base64, supporting Code128, EAN13, and EAN8 formats.
+   Source: https://api.market/store/viv-data/barcode-generator
+   Catalog ID: dev-viv-data-barcode-generator
+
+82. Coding Assistant API: AI-Powered Code Generation
+   Category: Developer Tools
+   Provider: magicapi
+   Tag: Code AI
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 100 free API units
+   Description: Provide intelligent code completion, highlighting, and correction across multiple programming languages.
+   Source: https://api.market/store/magicapi/coder
+   Catalog ID: dev-magicapi-coder
+
+83. Color Tools API
+   Category: Developer Tools
+   Provider: quotalink
+   Tag: Color
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: FREE plan: 100 free API units
+   Description: Color generation, conversion, contrast checking, and palette generation
+   Source: https://api.market/store/quotalink/color-tools-api
+   Catalog ID: dev-quotalink-color-tools-api
+
+84. Contact Extractor API — Emails, Phones & Social Profiles
+   Category: Developer Tools
+   Provider: sitetrace
+   Tag: Contacts
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Basic plan: 50 free API units
+   Description: Extract emails, phone numbers, social links, addresses, and contact forms from web pages.
+   Source: https://api.market/store/sitetrace/contact-extractor
+   Catalog ID: dev-sitetrace-contact-extractor
+
+85. Convert Units API
+   Category: Developer Tools
+   Provider: skycraft
+   Tag: Conversion
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: FREE plan: 1500 free API units
+   Description: Convert measurements across multiple unit types including weight, length, and temperature.
+   Source: https://api.market/store/skycraft/convert-units
+   Catalog ID: dev-skycraft-convert-units
+
+86. DetectZeStack: Identify Website Tech Stacks
+   Category: Developer Tools
+   Provider: detectzestack
+   Tag: Tech stack
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 100 free API units
+   Description: Identify website technologies using DNS, TLS, and HTTP analysis with CPE identifiers.
+   Source: https://api.market/store/detectzestack/techstack
+   Catalog ID: dev-detectzestack-techstack
+
+87. Doc Verify API
+   Category: Developer Tools
+   Provider: nicheapi-llc-1
+   Tag: ID verification
+   Price: $0.0058 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Pro plan: $29/month; 5000 API calls
+   Description: Identity document verification reference API.
+   Source: https://api.market/store/nicheapi-llc-1/docverify
+   Catalog ID: dev-nicheapi-llc-1-docverify
+
+88. Easy Lorem Ipsum API
+   Category: Developer Tools
+   Provider: kaminoweb
+   Tag: Lorem ipsum
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 1000 free API units
+   Description: Generate Lorem Ipsum text of any length with a REST call, simple authentication, and JSON output.
+   Source: https://api.market/store/kaminoweb/easy-lorem-ipsum-generator-api
+   Catalog ID: dev-kaminoweb-easy-lorem-ipsum-generator-api
+
+89. Extract Text from PDF Files via Upload or URL
+   Category: Developer Tools
+   Provider: viv-data
+   Tag: PDF text
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 50 free API units
+   Description: Extract clean, paginated text from PDFs by direct upload or URL using a PyMuPDF backend.
+   Source: https://api.market/store/viv-data/pdf-text
+   Catalog ID: dev-viv-data-pdf-text
+
+90. Extract, Summarize & Screenshot Web Pages with Webcontent API
+   Category: Developer Tools
+   Provider: quickpod
+   Tag: Web content
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 100 free API units
+   Description: Capture full-page screenshots, extract clean article text, and generate extractive summaries from web pages.
+   Source: https://api.market/store/quickpod/aiquick-speech-to-text
+   Catalog ID: dev-quickpod-aiquick-speech-to-text
+
+91. Free Image & Video Temporary Upload API
+   Category: Developer Tools
+   Provider: magicapi
+   Tag: Uploads
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 5.0 (4)
+   Usage / plan notes: Free plan: 1000000 free API units
+   Description: Upload images and videos and retrieve temporary public URLs.
+   Source: https://api.market/store/magicapi/image-upload
+   Catalog ID: dev-magicapi-image-upload
+
+92. Generate QR Codes with Customization | QR Code Generator API
+   Category: Developer Tools
+   Provider: devtoolbox
+   Tag: QR codes
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 3000 free API units
+   Description: Create QR codes in SVG, PNG, or Base64 with customizable error-correction levels.
+   Source: https://api.market/store/devtoolbox/qrcode-api
+   Catalog ID: dev-devtoolbox-qrcode-api
+
+93. Global Unit Converter API
+   Category: Developer Tools
+   Provider: evanvandalen
+   Tag: Conversion
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 100 free API units
+   Description: Convert across 19 unit categories with auto-detection, compound parsing, batching, locale formatting, and cooking conversions.
+   Source: https://api.market/store/evanvandalen/global-unit-converter
+   Catalog ID: dev-evanvandalen-global-unit-converter
+
+94. High-Quality 3D Asset Generator API (Trellis)
+   Category: Developer Tools
+   Provider: magicapi
+   Tag: 3D assets
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: FREE plan: 20 free API units
+   Description: Create detailed 3D assets for games, AR, and design with the Trellis model.
+   Source: https://api.market/store/magicapi/3d-asset-generator-api
+   Catalog ID: dev-magicapi-3d-asset-generator-api
+
+95. High-Quality Image Expansion API (Bria Expand)
+   Category: Developer Tools
+   Provider: magicapi
+   Tag: Image expand
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: PAYG; per-call pricing not disclosed
+   Description: Expand images beyond their borders by generating high-resolution pixels for seamless resizing.
+   Source: https://api.market/store/magicapi/ai-image-expansion-api
+   Catalog ID: dev-magicapi-ai-image-expansion-api
+
+96. Image to ASCII Art by URL API
+   Category: Developer Tools
+   Provider: skycraft
+   Tag: ASCII art
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: FREE plan: 1500 free API units
+   Description: Convert remote images into text-based ASCII representations for command-line and creative applications.
+   Source: https://api.market/store/skycraft/convert-image-to-ascii-txt
+   Catalog ID: dev-skycraft-convert-image-to-ascii-txt
+
+97. Labeloo Label PDF API
+   Category: Developer Tools
+   Provider: wiplash-labs
+   Tag: Labels
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: FREE plan: 50 free API units
+   Description: Generate print-ready Avery-compatible label PDFs from structured data or imported files.
+   Source: https://api.market/store/wiplash-labs/labeloo-label-pdf
+   Catalog ID: dev-wiplash-labs-labeloo-label-pdf
+
+98. Optimize Python Data Types: Cut Cloud Bills 30-75% with slimdata API
+   Category: Developer Tools
+   Provider: winter-hazel-inc
+   Tag: Optimization
+   Price: $0.038 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Basic plan: $19/month; 500 API calls
+   Description: Optimize Python data types and database schemas to reduce storage and cloud costs.
+   Source: https://api.market/store/winter-hazel-inc/slimdata
+   Catalog ID: dev-winter-hazel-inc-slimdata
+
+99. PackDiff - Automated PDF Text Comparison & Delta API
+   Category: Developer Tools
+   Provider: apiforge
+   Tag: PDF diff
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 50 free API units
+   Description: Fast, accurate text extraction and line-by-line diff generation for PDF documents with precise change metrics.
+   Source: https://api.market/store/apiforge/packdiff
+   Catalog ID: dev-apiforge-packdiff
+
+100. QR Code Generator — PNG or Base64, Instant
+   Category: Developer Tools
+   Provider: viv-data
+   Tag: QR codes
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 50 free API units
+   Description: Generate QR codes from text or URLs and return PNG or Base64 output for embedding and downloads.
+   Source: https://api.market/store/viv-data/qrcode
+   Catalog ID: dev-viv-data-qrcode
+
+101. Random User Generator — Fake Profiles for Testing
+   Category: Developer Tools
+   Provider: viv-data
+   Tag: Test data
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 50 free API units
+   Description: Generate up to 100 realistic fake user profiles with names, emails, jobs, and other test data.
+   Source: https://api.market/store/viv-data/random-user
+   Catalog ID: dev-viv-data-random-user
+
+102. Read Key-Value API
+   Category: Developer Tools
+   Provider: skycraft
+   Tag: Key-value
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: FREE plan: 1500 free API units
+   Description: Retrieve values from cloud storage by specifying unique keys.
+   Source: https://api.market/store/skycraft/read-key-value
+   Catalog ID: dev-skycraft-read-key-value
+
+103. RRULE API
+   Category: Developer Tools
+   Provider: innovative-logix
+   Tag: Scheduling
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: FREE plan: 500 free API units
+   Description: Expand an iCalendar RRULE into occurrence timestamps between a start and end time for calendar, scheduling, and reminder apps.
+   Source: https://api.market/store/innovative-logix/rrule
+   Catalog ID: dev-innovative-logix-rrule
+
+104. Schema Detector API — Extract JSON-LD, Microdata & Schema.org Data
+   Category: Developer Tools
+   Provider: sitetrace
+   Tag: Schema
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 1000 free API units
+   Description: Detect and extract JSON-LD, Microdata, RDFa, and schema.org structured data from web pages.
+   Source: https://api.market/store/sitetrace/schema-detector
+   Catalog ID: dev-sitetrace-schema-detector
+
+105. SEO Audit API — Full On-Page SEO Analysis & Site Health Check
+   Category: Developer Tools
+   Provider: sitetrace
+   Tag: SEO audit
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Basic plan: 50 free API units
+   Description: Analyze title tags, meta descriptions, headings, internal links, image alt text, and SEO health for any URL.
+   Source: https://api.market/store/sitetrace/seo-audit
+   Catalog ID: dev-sitetrace-seo-audit
+
+106. SEO Audit API: Get Score, Issues & Fixes - AI Powered
+   Category: Developer Tools
+   Provider: codezic
+   Tag: SEO audit
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 500 free API units
+   Description: Analyze websites in real time, returning SEO scores, issues, and suggested fixes.
+   Source: https://api.market/store/codezic/seo
+   Catalog ID: dev-codezic-seo
+
+107. SEO Snapshot API — Full-Page SEO Metrics & Scores
+   Category: Developer Tools
+   Provider: sitetrace
+   Tag: SEO metrics
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Basic plan: 50 free API units
+   Description: Return SEO score, title, meta tags, headings, word count, load speed, and other on-page signals for a URL.
+   Source: https://api.market/store/sitetrace/seo-snapshot
+   Catalog ID: dev-sitetrace-seo-snapshot
+
+108. Shorten URLs: Fast, Secure URL Shortener API
+   Category: Developer Tools
+   Provider: codezic
+   Tag: URL shortener
+   Price: $0.00012 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Pro plan: $5.99/month; 50,000 API calls
+   Description: Shorten long URLs through a fast URL-shortening API.
+   Source: https://api.market/store/codezic/pro
+   Catalog ID: dev-codezic-pro
+
+109. Sitemap Analyzer API — Parse & Validate XML Sitemaps
+   Category: Developer Tools
+   Provider: sitetrace
+   Tag: Sitemaps
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Basic plan: 50 free API units
+   Description: Fetch and parse XML sitemaps, extract URLs, detect indexes, and validate sitemap structure.
+   Source: https://api.market/store/sitetrace/sitemap-analyzer
+   Catalog ID: dev-sitetrace-sitemap-analyzer
+
+110. Store Key-Value API
+   Category: Developer Tools
+   Provider: skycraft
+   Tag: Key-value
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: FREE plan: 100 free API units
+   Description: Store, retrieve, and manage key-value pairs with a lightweight cloud storage API.
+   Source: https://api.market/store/skycraft/store-key-value
+   Catalog ID: dev-skycraft-store-key-value
+
+111. Text to Slug — URL-Friendly String Converter
+   Category: Developer Tools
+   Provider: viv-data
+   Tag: Slugging
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 10 free API units
+   Description: Convert text to URL-friendly slugs while handling Unicode, special characters, and multiple languages.
+   Source: https://api.market/store/viv-data/slug
+   Catalog ID: dev-viv-data-slug
+
+112. Ultra-Fast Character Image Generator API
+   Category: Developer Tools
+   Provider: magicapi
+   Tag: Avatars
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: PAYG; per-call pricing not disclosed
+   Description: Generate stylized character avatars from text prompts using Tencent's Instant Character model.
+   Source: https://api.market/store/magicapi/instant-character-image-avatar-generator
+   Catalog ID: dev-magicapi-instant-character-image-avatar-generator
+
+113. User Agent Parser — Browser, OS, Device Detection
+   Category: Developer Tools
+   Provider: viv-data
+   Tag: User agent
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 10 free API units
+   Description: Parse user-agent strings to extract browser, OS, device type, and version across major platforms.
+   Source: https://api.market/store/viv-data/ua-parser
+   Catalog ID: dev-viv-data-ua-parser
+
+114. UUID Generator — v1, v4, Batch Generation
+   Category: Developer Tools
+   Provider: viv-data
+   Tag: UUID
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 10 free API units
+   Description: Generate RFC-compliant UUIDs, including time-based v1 and random v4 UUIDs, with batches up to 100.
+   Source: https://api.market/store/viv-data/uuid
+   Catalog ID: dev-viv-data-uuid
+
+115. Vector Search API: Discover Icons for UI/UX
+   Category: Developer Tools
+   Provider: skycraft
+   Tag: Icons
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: FREE plan: 1500 free API units
+   Description: Search a library of more than 700,000 free-to-use vector icons with associated license types.
+   Source: https://api.market/store/skycraft/search-vectors
+   Catalog ID: dev-skycraft-search-vectors
+
+116. Web Report Generator API — SEO & Performance Reports
+   Category: Developer Tools
+   Provider: sitetrace
+   Tag: SEO reports
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: FREE plan: 50 free API units
+   Description: Generate structured SEO, performance, and content reports for any URL in one API call.
+   Source: https://api.market/store/sitetrace/report-generator
+   Catalog ID: dev-sitetrace-report-generator
+
+117. WebShot API — Website Screenshots with Smart Cookie Blocking
+   Category: Developer Tools
+   Provider: valitype
+   Tag: Screenshots
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0)
+   Usage / plan notes: Free plan: 100 free API units
+   Description: Capture fast, pixel-perfect website screenshots while automatically blocking cookie banners and popups.
+   Source: https://api.market/store/valitype/webshot
+   Catalog ID: dev-valitype-webshot
+
+118. CoinAPI Cryptocurrency APIs
+   Category: Finance & Crypto
+   Provider: CoinAPI
+   Tag: crypto infrastructure
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: N/A (not shown)
+   Usage / plan notes: Official page offers free credits; exact quota and paid pricing are not shown. Frontend demo pricing.
+   Description: Unified crypto infrastructure for real-time and historical market data, exchange rates, indexes, flat files, and multi-exchange trading across 400+ exchanges.
+   Source: https://www.coinapi.io/
+   Catalog ID: coinapi
+
+119. CoinGecko API
+   Category: Finance & Crypto
+   Provider: CoinGecko
+   Tag: crypto data
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: N/A (not shown)
+   Usage / plan notes: Get started free with no credit card required; exact quota and paid pricing are not shown on the fetched official product page. Frontend demo pricing.
+   Description: Crypto data API covering real-time and historical prices, market data, onchain liquidity, tokens, exchanges, derivatives, and global metrics.
+   Source: https://www.coingecko.com/en/api
+   Catalog ID: coingecko-api
+
+120. CoinMarketCap API
+   Category: Finance & Crypto
+   Provider: CoinMarketCap
+   Tag: crypto market data
+   Price: $0.0002 per call (marketplace unit price)
+   Rating: N/A (not shown)
+   Usage / plan notes: Basic free tier: 15,000 monthly call credits and 50 requests/minute; Builder starts at $29/month for 150,000 credits.
+   Description: Cryptocurrency and DEX data API covering listings, quotes, historical OHLCV, exchanges, global metrics, onchain data, and market indicators.
+   Source: https://coinmarketcap.com/api/pricing/
+   Catalog ID: coinmarketcap-api
+
+121. DeFi and crypto wallet analytics for Solana, Ethereum and Base
+   Category: Finance & Crypto
+   Provider: walletfinder.ai
+   Tag: defi analytics
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 100 free API units shown on API.market category; product page currently shows no active pricing plan.
+   Description: Wallet analytics with realized PnL, wallet statistics, trade history, and profitable-wallet/trade discovery across Solana, Ethereum, and Base.
+   Source: https://api.market/store/walletfinder.ai/walletfinder
+   Catalog ID: walletfinder-defi-analytics
+
+122. EODHD Financial APIs
+   Category: Finance & Crypto
+   Provider: EODHD / Unicorn Data Services
+   Tag: financial data
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: N/A (not shown)
+   Usage / plan notes: Free plan: 20 API calls/day; EOD Historical Data All World starts at $19.99/month. Official page says free access is for personal use.
+   Description: Financial APIs for global stocks, ETFs, funds, forex, cryptocurrencies, fundamentals, intraday and EOD data, corporate events, news, and macro indicators.
+   Source: https://eodhd.com/pricing
+   Catalog ID: eodhd-financial-apis
+
+123. finlight: Real-Time Financial News API
+   Category: Finance & Crypto
+   Provider: finlight
+   Tag: financial news
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: Free tier stated in listing; API.market category also shows $29/month. Per-call amount is frontend demo pricing.
+   Description: Real-time financial news from 80+ sources in 18+ languages, enriched with sentiment scores and entity tags.
+   Source: https://api.market/store/finlight/finlight
+   Catalog ID: finlight-news
+
+124. Finnhub Stock API
+   Category: Finance & Crypto
+   Provider: Finnhub
+   Tag: stocks forex crypto
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: N/A (not shown)
+   Usage / plan notes: Official page states a free real-time API for stocks, forex, and cryptocurrency; exact free quota and paid prices are not shown. Frontend demo pricing.
+   Description: Real-time REST and WebSocket APIs for stocks, currencies, and crypto, plus fundamentals, estimates, transcripts, news sentiment, ETFs, and alternative data.
+   Source: https://finnhub.io/
+   Catalog ID: finnhub-stock-api
+
+125. Freight Estimator API - Shipping Cost & Transit Time
+   Category: Finance & Crypto
+   Provider: sitetrace
+   Tag: freight finance
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 1,000 free API units shown on API.market category; product page currently shows no active pricing plan.
+   Description: Estimates freight cost, delivery time, and logistics notes from route, cargo size, weight, and transport mode.
+   Source: https://api.market/store/sitetrace/freight-estimator
+   Catalog ID: freight-estimator
+
+126. Global Mortgage and Loan Calculator API
+   Category: Finance & Crypto
+   Provider: evanvandalen
+   Tag: loan calculator
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 100 free API units shown on API.market category; product page currently shows no active pricing plan.
+   Description: 24-endpoint multi-currency API for repayments, APR, DTI, stamp duty, amortisation, and refinance break-even calculations.
+   Source: https://api.market/store/evanvandalen/global-mortgage-loan-calculator
+   Catalog ID: global-mortgage-loan-calculator
+
+127. Global VAT/GST Rates & Calculator API
+   Category: Finance & Crypto
+   Provider: evanvandalen
+   Tag: tax rates
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 100 free API units shown on API.market category; product page currently shows no active pricing plan.
+   Description: VAT/GST rates, calculators, and invoice tools for 166 countries, including OSS, thresholds, history, and locale formatting.
+   Source: https://api.market/store/evanvandalen/global-vat-gst-api
+   Catalog ID: global-vat-gst-calculator
+
+128. Government Revenue Dependency Score API
+   Category: Finance & Crypto
+   Provider: hvcapis
+   Tag: contract exposure
+   Price: $0.0005 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 50 free API units shown on API.market category; product page currently shows no active pricing plan.
+   Description: Scores a US public company's federal-contract exposure from 0–100 with agency breakdown and compliance flags using SEC EDGAR and USASpending.gov.
+   Source: https://api.market/store/hvcapis/grds
+   Catalog ID: government-revenue-dependency-score
+
+129. LoanAdvisor Pro: AI Loan Comparison with Smart Recommendations
+   Category: Finance & Crypto
+   Provider: codezic
+   Tag: loan comparison
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 1,000 free API units shown on API.market category; product page currently shows no active pricing plan.
+   Description: AI API for EMI insights, personalized loan recommendations, and risk analysis.
+   Source: https://api.market/store/codezic/loanapi
+   Catalog ID: loanadvisor-pro
+
+130. Polygon.io Stock Market API
+   Category: Finance & Crypto
+   Provider: polygon.io
+   Tag: stocks
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 5.0 (1 review)
+   Usage / plan notes: 100 free API units shown on API.market category; product page currently shows no active pricing plan.
+   Description: Financial market API for stock-market data and market feeds.
+   Source: https://api.market/store/polygon.io/polygon
+   Catalog ID: polygon-io-stock-market
+
+131. Script Master Labs x402 Data API
+   Category: Finance & Crypto
+   Provider: scriptmasterlabs
+   Tag: federal data
+   Price: $0.0005 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 30 free API units shown on API.market category; product page currently shows no active pricing plan.
+   Description: 71 US federal and financial data endpoints for AI agents with pay-per-call blockchain settlement via x402.
+   Source: https://api.market/store/scriptmasterlabs/x402-data
+   Catalog ID: scriptmasterlabs-x402-data
+
+132. SEC EDGAR Insider Trading Alerts API
+   Category: Finance & Crypto
+   Provider: lulzasaur
+   Tag: insider trading
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 100 free API units shown on API.market category; product page currently shows no active pricing plan.
+   Description: Real-time SEC Form 4 insider-trading alerts monitoring buys and sells across US public companies.
+   Source: https://api.market/store/lulzasaur/sec-edgar-alerts
+   Catalog ID: sec-edgar-insider-alerts
+
+133. SEC Event Intelligence API
+   Category: Finance & Crypto
+   Provider: data-apis-1
+   Tag: sec intelligence
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: $19/month shown on API.market category; per-call amount is frontend demo pricing.
+   Description: SEC EDGAR filing-change and watchlist intelligence for investor, compliance, and automation workflows.
+   Source: https://api.market/store/data-apis-1/sec-event-intelligence
+   Catalog ID: sec-event-intelligence
+
+134. SiftingIO Market Data
+   Category: Finance & Crypto
+   Provider: siftingio
+   Tag: market data
+   Price: $0.002 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: $299/month shown on API.market category; per-call amount is frontend demo pricing.
+   Description: Unified REST market data for US stocks, forex, crypto, and commodities, including real-time, historical, and fundamentals data.
+   Source: https://api.market/store/siftingio/data
+   Catalog ID: siftingio-market-data
+
+135. SKAlpha
+   Category: Finance & Crypto
+   Provider: recodex
+   Tag: research signals
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: $15/month shown on API.market category; per-call amount is frontend demo pricing.
+   Description: API combining real-time market news, pricing, and research signals for workflow integration.
+   Source: https://api.market/store/recodex/skalpha
+   Catalog ID: skalpha
+
+136. South Africa Financial Calculators API
+   Category: Finance & Crypto
+   Provider: evanvandalen
+   Tag: financial calculators
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 100 free API units shown on API.market category; product page currently shows no active pricing plan.
+   Description: South African calculations for bond repayments, PAYE tax, transfer duty, vehicle finance, VAT, retirement lump sums, and personal loans.
+   Source: https://api.market/store/evanvandalen/sa-financial-calculators
+   Catalog ID: south-africa-financial-calculators
+
+137. South Africa Fuel Price API
+   Category: Finance & Crypto
+   Provider: evanvandalen
+   Tag: fuel prices
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 100 free API units shown on API.market category; product page currently shows no active pricing plan.
+   Description: Official South African petrol and diesel prices with 18 years of history, automatically updated monthly from DMRE.
+   Source: https://api.market/store/evanvandalen/sa-fuel-price
+   Catalog ID: south-africa-fuel-price
+
+138. Tariff Lookup API - Import Duty & Trade Rate Estimator
+   Category: Finance & Crypto
+   Provider: sitetrace
+   Tag: trade tariffs
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 1,000 free API units shown on API.market category; product page currently shows no active pricing plan.
+   Description: Estimates import duties and provides HTS/HS tariff guidance and trade notes by product, origin, and destination.
+   Source: https://api.market/store/sitetrace/tariff-lookup
+   Catalog ID: tariff-lookup
+
+139. Twelve Data API
+   Category: Finance & Crypto
+   Provider: Twelve Data
+   Tag: global markets
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: N/A (not shown)
+   Usage / plan notes: Free tier: 800 API requests/day plus 8 trial WebSocket credits; paid plans available via official pricing page.
+   Description: Unified REST and WebSocket financial-data API for global stocks, forex, crypto, ETFs, commodities, indices, fundamentals, and technical indicators.
+   Source: https://twelvedata.com/
+   Catalog ID: twelve-data
+
+140. YH Finance - Market Data & Stock Insights API
+   Category: Finance & Crypto
+   Provider: veer-hanuman-1
+   Tag: stock insights
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 10 free API units shown on API.market category; product page currently shows no active pricing plan.
+   Description: Yahoo Finance-based API for quotes, charts, screeners, movers, options, fundamentals, dividends, news, and other financial data.
+   Source: https://api.market/store/veer-hanuman-1/yahoo-finance
+   Catalog ID: yh-finance
+
+141. [V2] FaceSwap Image & Video API
+   Category: Image Processing
+   Provider: MagicAPI
+   Tag: Face swap
+   Price: $0.05 per call (marketplace unit price)
+   Rating: 4.0/5 (5 reviews)
+   Usage / plan notes: 100 FREE API units advertised on the API.market category card; product page currently shows no pricing plans.
+   Description: Swap faces in high-resolution images and videos, including videos up to 240 seconds.
+   Source: https://api.market/store/magicapi/faceswap-v2
+   Catalog ID: faceswap-v2
+
+142. [V2] Object Remover API
+   Category: Image Processing
+   Provider: MagicAPI
+   Tag: Object removal
+   Price: $0.05 per call (marketplace unit price)
+   Rating: 5.0/5 (1 review)
+   Usage / plan notes: 100 FREE API units advertised on the API.market category card; product page currently shows no pricing plans.
+   Description: Remove selected unwanted objects from images with seamless real-time processing.
+   Source: https://api.market/store/magicapi/object-remover-v2
+   Catalog ID: object-remover-v2
+
+143. Accurate Text Detection & Transcription API (Datalab-to OCR)
+   Category: Image Processing
+   Provider: MagicAPI
+   Tag: OCR
+   Price: $0.0025 per call (marketplace unit price)
+   Rating: N/A (0 reviews)
+   Usage / plan notes: $0.0025 per API unit advertised on the API.market category card; product page currently shows no pricing plans.
+   Description: Detect, transcribe, and analyze text in images across 90 languages.
+   Source: https://api.market/store/magicapi/text-detection-transcription-api-datalab-to-ocr
+   Catalog ID: text-detection-transcription-api-datalab-to-ocr
+
+144. Advanced Object Detection & Mask Segmentation API (Grounded SAM)
+   Category: Image Processing
+   Provider: MagicAPI
+   Tag: Segmentation
+   Price: $0.01 per call (marketplace unit price)
+   Rating: 5.0/5 (1 review)
+   Usage / plan notes: 20 FREE API units advertised on the API.market category card; product page currently shows no pricing plans.
+   Description: Detect and segment objects from images using text prompts with Grounding DINO and SAM.
+   Source: https://api.market/store/magicapi/object-detection-segmentation-api
+   Catalog ID: object-detection-segmentation-api
+
+145. AI Face Restoration API (CodeFormer)
+   Category: Image Processing
+   Provider: MagicAPI
+   Tag: Face restoration
+   Price: $0.05 per call (marketplace unit price)
+   Rating: 5.0/5 (1 review)
+   Usage / plan notes: $0.05 per API unit advertised on the API.market category card; product page currently shows no pricing plans.
+   Description: Restore faces in old or AI-generated photos with CodeFormer-based enhancement.
+   Source: https://api.market/store/magicapi/ai-face-restoration-old-photos
+   Catalog ID: ai-face-restoration-old-photos
+
+146. AI Image Extender
+   Category: Image Processing
+   Provider: AILabTools
+   Tag: Outpainting
+   Price: $0.05 per call (marketplace unit price)
+   Rating: 5.0/5 (1 review)
+   Usage / plan notes: 10 FREE API units advertised on the API.market category card; product page currently shows no pricing plans.
+   Description: Extend images beyond their borders with proportional, frame, four-side, and canvas outpainting.
+   Source: https://api.market/store/ailabtools/ai-image-extender
+   Catalog ID: ai-image-extender
+
+147. Amazon Rekognition Image
+   Category: Image Processing
+   Provider: Amazon Web Services
+   Tag: Image analysis
+   Price: $0.001 per call (marketplace unit price)
+   Rating: N/A (not shown)
+   Usage / plan notes: AWS Free Tier provides 1,000 Group 1 and 1,000 Group 2 image analyses/month for 12 months; Group 2 starts at $0.001/image for the first 1M images/month.
+   Description: Analyze images for labels, faces, moderation, text, celebrities, protective equipment, and face search.
+   Source: https://aws.amazon.com/rekognition/pricing/
+   Catalog ID: aws-rekognition-image
+
+148. Clipdrop Cleanup API
+   Category: Image Processing
+   Provider: Clipdrop (Jasper.ai)
+   Tag: Cleanup
+   Price: $0.05 per call (marketplace unit price)
+   Rating: N/A (not shown)
+   Usage / plan notes: The official API page describes the endpoint but does not publish free units or pricing; frontend demo price only.
+   Description: Remove unwanted objects, text, people, or blemishes from photographs with AI.
+   Source: https://clipdrop.co/apis
+   Catalog ID: clipdrop-cleanup
+
+149. Clipdrop Uncrop API
+   Category: Image Processing
+   Provider: Clipdrop (Jasper.ai)
+   Tag: Uncrop
+   Price: $0.05 per call (marketplace unit price)
+   Rating: N/A (not shown)
+   Usage / plan notes: The official API page describes the endpoint but does not publish free units or pricing; frontend demo price only.
+   Description: Expand an image to a new aspect ratio by generating additional scene context around it.
+   Source: https://clipdrop.co/apis
+   Catalog ID: clipdrop-uncrop
+
+150. Cloudinary Image and Video APIs
+   Category: Image Processing
+   Provider: Cloudinary
+   Tag: Transformations
+   Price: $0.001 per call (marketplace unit price)
+   Rating: N/A (not shown)
+   Usage / plan notes: Free plan includes 25 monthly credits; 1 credit equals 1,000 image/video transformations (free forever). Paid plans start at $99/month for 225 credits.
+   Description: Upload, transform, optimize, store, and deliver images through REST APIs and SDKs.
+   Source: https://cloudinary.com/pricing
+   Catalog ID: cloudinary-image-api
+
+151. Deblurer API
+   Category: Image Processing
+   Provider: MagicAPI
+   Tag: Deblur
+   Price: $0.05 per call (marketplace unit price)
+   Rating: 5.0/5 (1 review)
+   Usage / plan notes: 100 FREE API units advertised on the API.market category card; product page currently shows no pricing plans.
+   Description: Restore clarity and detail in blurred images using AI enhancement.
+   Source: https://api.market/store/magicapi/deblurer
+   Catalog ID: deblurer
+
+152. FaceSwap API
+   Category: Image Processing
+   Provider: MagicAPI
+   Tag: Face swap
+   Price: $0.05 per call (marketplace unit price)
+   Rating: 4.3/5 (7 reviews)
+   Usage / plan notes: 100 FREE API units advertised on the API.market category card; product page currently shows no pricing plans.
+   Description: Blend one face into another image in seconds from image URLs.
+   Source: https://api.market/store/magicapi/faceswap
+   Catalog ID: faceswap
+
+153. Google Cloud Vision API
+   Category: Image Processing
+   Provider: Google Cloud
+   Tag: Vision analysis
+   Price: $0.0015 per call (marketplace unit price)
+   Rating: N/A (not shown)
+   Usage / plan notes: First 1,000 feature units/month are free; then common features such as label, text, face, and image properties cost $1.50 per 1,000 units, or $0.0015/unit.
+   Description: Analyze images with label, text, face, landmark, logo, object-localization, safe-search, and image-property features.
+   Source: https://cloud.google.com/vision/pricing
+   Catalog ID: google-cloud-vision
+
+154. Hair Changer API V2
+   Category: Image Processing
+   Provider: MagicAPI
+   Tag: Hair editing
+   Price: $0.05 per call (marketplace unit price)
+   Rating: 5.0/5 (2 reviews)
+   Usage / plan notes: $49/month advertised on the API.market category card; product page currently shows no pricing plans.
+   Description: Change hairstyle and hair color in images for virtual try-on experiences.
+   Source: https://api.market/store/magicapi/hair-v2
+   Catalog ID: hair-v2
+
+155. Hairstyle Changer Pro
+   Category: Image Processing
+   Provider: AILabTools
+   Tag: Hair try-on
+   Price: $0.05 per call (marketplace unit price)
+   Rating: 5.0/5 (1 review)
+   Usage / plan notes: 10 FREE API units advertised on the API.market category card; product page currently shows no pricing plans.
+   Description: Apply a variety of hairstyles and hair colors to images with AI.
+   Source: https://api.market/store/ailabtools/hairstyle-changer-pro
+   Catalog ID: hairstyle-changer-pro
+
+156. High-Quality Object Removal API (bria/eraser)
+   Category: Image Processing
+   Provider: MagicAPI
+   Tag: Object removal
+   Price: $0.05 per call (marketplace unit price)
+   Rating: N/A (0 reviews)
+   Usage / plan notes: $0.05/call advertised in the API.market listing; product page currently shows no pricing plans.
+   Description: Remove unwanted objects from images with commercially safe, high-quality Bria Eraser processing.
+   Source: https://api.market/store/magicapi/ai-object-removal-image-api
+   Catalog ID: ai-object-removal-image-api
+
+157. Image Tools API
+   Category: Image Processing
+   Provider: Quickpod
+   Tag: Image utilities
+   Price: $0.05 per call (marketplace unit price)
+   Rating: N/A (0 reviews)
+   Usage / plan notes: 100 FREE API units advertised on the API.market category card; product page currently shows no pricing plans.
+   Description: Process, analyze, and convert images with background removal and OCR capabilities.
+   Source: https://api.market/store/quickpod/aiquick-image-tools
+   Catalog ID: aiquick-image-tools
+
+158. Imgix Image Processing Platform
+   Category: Image Processing
+   Provider: Imgix
+   Tag: Image optimization
+   Price: $0.25 per call (marketplace unit price)
+   Rating: N/A (not shown)
+   Usage / plan notes: 30-day trial includes 100 free credits; Starter is $25/month for 100 credits ($0.25/credit), with transformation consumption varying by feature.
+   Description: Resize, crop, format-convert, optimize, filter, and apply AI visual transformations through an image API/CDN.
+   Source: https://www.imgix.com/pricing
+   Catalog ID: imgix-image-api
+
+159. Instant Image Caption Generator API
+   Category: Image Processing
+   Provider: MagicAPI
+   Tag: Image captioning
+   Price: $0.02 per call (marketplace unit price)
+   Rating: 5.0/5 (1 review)
+   Usage / plan notes: $0.02 per API unit advertised on the API.market category card; product page currently shows no pricing plans.
+   Description: Generate concise image captions using the lucataco/image-caption model.
+   Source: https://api.market/store/magicapi/ai-image-caption-generator
+   Catalog ID: ai-image-caption-generator
+
+160. Object Detector API by Keywords
+   Category: Image Processing
+   Provider: MagicAPI
+   Tag: Object detection
+   Price: $0.01 per call (marketplace unit price)
+   Rating: N/A (0 reviews)
+   Usage / plan notes: 100 FREE API units advertised on the API.market category card; product page currently shows no pricing plans.
+   Description: Identify requested objects in images by keyword, including animals, vehicles, and everyday items.
+   Source: https://api.market/store/magicapi/objectdetector
+   Catalog ID: objectdetector
+
+161. OCR API
+   Category: Image Processing
+   Provider: OCR.Space
+   Tag: OCR
+   Price: $0.0001 per call (marketplace unit price)
+   Rating: N/A (not shown)
+   Usage / plan notes: Free plan: 25,000 requests/month and 500 requests/day per IP; PRO is $30/month for 300,000 requests.
+   Description: Parse images and multi-page PDFs into extracted text returned as JSON.
+   Source: https://ocr.space/ocrapi
+   Catalog ID: ocr-space
+
+162. Product Background Removal API
+   Category: Image Processing
+   Provider: AILabTools
+   Tag: Product cutout
+   Price: $0.05 per call (marketplace unit price)
+   Rating: N/A (0 reviews)
+   Usage / plan notes: 10 FREE API units advertised on the API.market category card; product page currently shows no pricing plans.
+   Description: Remove backgrounds from product images for e-commerce catalogs and marketing assets.
+   Source: https://api.market/store/ailabtools/product-background-removal
+   Catalog ID: product-background-removal
+
+163. Remove.bg API
+   Category: Image Processing
+   Provider: remove.bg
+   Tag: Background removal
+   Price: $0.05 per call (marketplace unit price)
+   Rating: N/A (not shown)
+   Usage / plan notes: First 50 API calls/month are free; the cited API documentation does not state the paid per-call rate.
+   Description: Remove image backgrounds with one HTTP call from an upload or image URL, supporting output up to 50 megapixels.
+   Source: https://www.remove.bg/api
+   Catalog ID: remove-bg
+
+164. Text-Based Image Editing API (Flux Kontext Pro)
+   Category: Image Processing
+   Provider: MagicAPI
+   Tag: Prompt editing
+   Price: $0.05 per call (marketplace unit price)
+   Rating: 3.5/5 (2 reviews)
+   Usage / plan notes: $0.05/call advertised in the API.market listing; product page currently shows no pricing plans.
+   Description: Edit and transform images with natural-language prompts while preserving consistent output.
+   Source: https://api.market/store/magicapi/ai-text-based-image-editing-api
+   Catalog ID: ai-text-based-image-editing-api
+
+165. Ultra-Fast Image Background Remover API (rembg)
+   Category: Image Processing
+   Provider: MagicAPI
+   Tag: Background removal
+   Price: $0.05 per call (marketplace unit price)
+   Rating: N/A (0 reviews)
+   Usage / plan notes: $0.05 per API unit advertised on the API.market category card; product page currently shows no pricing plans.
+   Description: Remove image backgrounds and return clean transparent results for commerce and creative apps.
+   Source: https://api.market/store/magicapi/instant-image-background-removal-api
+   Catalog ID: instant-image-background-removal-api
+
+166. Geoapify Routing API
+   Category: Maps & Routing
+   Provider: Geoapify
+   Tag: Routing
+   Price: $0.0002 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Free plan: 3,000 credits/day. A simple Routing API request generally costs 1 credit; paid API 10 plan is $59/month for 10,000 credits/day, before taxes.
+   Description: Calculate routes for cars, trucks, bicycles, walking, and transit, returning GeoJSON geometry, directions, travel time, distance, and road details.
+   Source: https://www.geoapify.com/routing-api/
+   Catalog ID: geoapify-routing
+
+167. Google Maps Routes API
+   Category: Maps & Routing
+   Provider: Google Maps Platform
+   Tag: Routing
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Pay-as-you-go. Compute Routes is billed per request; Compute Route Matrix is billed per returned element. Exact SKU rates are linked in Google's current pricing tables; no free-unit amount is stated on the fetched billing page.
+   Description: Compute routes and route matrices with Essentials, Pro, and Enterprise feature tiers; matrix billing is per origin-destination element.
+   Source: https://developers.google.com/maps/documentation/routes/usage-and-billing
+   Catalog ID: google-routes
+
+168. HERE Geocoding & Search
+   Category: Maps & Routing
+   Provider: HERE Technologies
+   Tag: Geocoding
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: HERE Base Plan: start free with generous free tiers per API, then pay per transaction; no daily transaction limits. Indicative numeric prices were not rendered on the fetched page.
+   Description: Location service for geocoding/search and address-to-coordinate or coordinate-to-place workflows.
+   Source: https://www.here.com/get-started/pricing
+   Catalog ID: here-geocoding-search
+
+169. HERE Isoline Routing
+   Category: Maps & Routing
+   Provider: HERE Technologies
+   Tag: Isochrone
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: HERE Base Plan: start free with generous free tiers per API, then pay per transaction; no daily transaction limits. Indicative numeric prices were not rendered on the fetched page.
+   Description: Compute reachable-area isolines around locations using routing data.
+   Source: https://www.here.com/get-started/pricing
+   Catalog ID: here-isoline-routing
+
+170. HERE Matrix Routing
+   Category: Maps & Routing
+   Provider: HERE Technologies
+   Tag: Matrix
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: HERE Base Plan: start free with generous free tiers per API, then pay per transaction; no daily transaction limits. Indicative numeric prices were not rendered on the fetched page.
+   Description: Calculate travel-time and distance matrices across multiple origins and destinations.
+   Source: https://www.here.com/get-started/pricing
+   Catalog ID: here-matrix-routing
+
+171. HERE Routing
+   Category: Maps & Routing
+   Provider: HERE Technologies
+   Tag: Routing
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: HERE Base Plan: start free with generous free tiers per API, then pay per transaction; no daily transaction limits. Indicative numeric prices were not rendered on the fetched page.
+   Description: Transaction-based routing service in HERE's location-services platform for route calculation and navigation use cases.
+   Source: https://www.here.com/get-started/pricing
+   Catalog ID: here-routing
+
+172. HERE Tour Planning
+   Category: Maps & Routing
+   Provider: HERE Technologies
+   Tag: Fleet Routing
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: HERE Base Plan: start free with generous free tiers per API, then pay per transaction; no daily transaction limits. Indicative numeric prices were not rendered on the fetched page.
+   Description: Plan and optimize tours for multi-stop routing and logistics workflows.
+   Source: https://www.here.com/get-started/pricing
+   Catalog ID: here-tour-planning
+
+173. HERE Waypoints Sequence
+   Category: Maps & Routing
+   Provider: HERE Technologies
+   Tag: Optimization
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: HERE Base Plan: start free with generous free tiers per API, then pay per transaction; no daily transaction limits. Indicative numeric prices were not rendered on the fetched page.
+   Description: Optimize the order of stops in a multi-waypoint route.
+   Source: https://www.here.com/get-started/pricing
+   Catalog ID: here-waypoints-sequence
+
+174. Mapbox Directions API
+   Category: Maps & Routing
+   Provider: Mapbox
+   Tag: Directions
+   Price: $0.002 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 100K free requests/month; then $2.00 per 1,000 requests at the first paid tier.
+   Description: Calculate traffic- and incident-aware driving, walking, and cycling routes, with turn-by-turn instructions and up to 25 coordinates.
+   Source: https://docs.mapbox.com/api/navigation/directions/
+   Catalog ID: mapbox-directions
+
+175. Mapbox Isochrone API
+   Category: Maps & Routing
+   Provider: Mapbox
+   Tag: Isochrone
+   Price: $0.002 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 100K free requests/month; then $2.00 per 1,000 requests at the first paid tier (per Mapbox pricing page).
+   Description: Compute polygons or lines showing areas reachable within a specified travel time or distance.
+   Source: https://docs.mapbox.com/api/navigation/isochrone/
+   Catalog ID: mapbox-isochrone
+
+176. Mapbox Map Matching API
+   Category: Maps & Routing
+   Provider: Mapbox
+   Tag: Map Matching
+   Price: $0.002 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 100K free requests/month; then $2.00 per 1,000 requests at the first paid tier.
+   Description: Snap fuzzy GPS traces to the Mapbox road and path network for clean paths and analysis.
+   Source: https://docs.mapbox.com/api/navigation/map-matching/
+   Catalog ID: mapbox-map-matching
+
+177. Mapbox Matrix API
+   Category: Maps & Routing
+   Provider: Mapbox
+   Tag: Matrix
+   Price: $0.002 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 100K free matrix elements/month; then $2.00 per 1,000 elements at the first paid tier.
+   Description: Calculate travel-time reachability between many coordinates for filtering and optimization algorithms.
+   Source: https://docs.mapbox.com/api/navigation/matrix/
+   Catalog ID: mapbox-matrix
+
+178. Mapbox Optimization API
+   Category: Maps & Routing
+   Provider: Mapbox
+   Tag: Optimization
+   Price: $0.002 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 100K free requests/month; then $2.00 per 1,000 requests at the first paid tier.
+   Description: Plan multi-stop driving, bicycling, and walking routes in the most efficient order.
+   Source: https://docs.mapbox.com/api/navigation/optimization/
+   Catalog ID: mapbox-optimization
+
+179. openrouteservice Directions
+   Category: Maps & Routing
+   Provider: openrouteservice (GIScience/HeiGIT)
+   Tag: Directions
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Free public service advertises more than 7,000 requests/day; no public paid per-call rate shown.
+   Description: Compute global routes and navigation information for car, bicycle, walking, hiking, wheelchair, and heavy-vehicle modes.
+   Source: https://openrouteservice.org/services/
+   Catalog ID: openrouteservice-directions
+
+180. openrouteservice Geocoding
+   Category: Maps & Routing
+   Provider: openrouteservice (GIScience/HeiGIT)
+   Tag: Geocoding
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Free public service advertises more than 7,000 requests/day; no public paid per-call rate shown.
+   Description: Forward- and reverse-geocode place names, street addresses, postal codes, and coordinates into normalized point geometry/descriptions.
+   Source: https://openrouteservice.org/services/
+   Catalog ID: openrouteservice-geocoding
+
+181. openrouteservice Isochrones
+   Category: Maps & Routing
+   Provider: openrouteservice (GIScience/HeiGIT)
+   Tag: Isochrone
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Free public service advertises more than 7,000 requests/day; no public paid per-call rate shown.
+   Description: Return reachability areas as polygons based on travel time or distance, including intersections for multiple locations.
+   Source: https://openrouteservice.org/services/
+   Catalog ID: openrouteservice-isochrones
+
+182. openrouteservice Optimization
+   Category: Maps & Routing
+   Provider: openrouteservice (GIScience/HeiGIT)
+   Tag: Optimization
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Free public service advertises more than 7,000 requests/day; no public paid per-call rate shown.
+   Description: Solve vehicle-routing problems with multiple vehicles, capacities, skills, service durations, time windows, and priorities.
+   Source: https://openrouteservice.org/services/
+   Catalog ID: openrouteservice-optimization
+
+183. openrouteservice POIs
+   Category: Maps & Routing
+   Provider: openrouteservice (GIScience/HeiGIT)
+   Tag: Places
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Free public service advertises more than 7,000 requests/day; no public paid per-call rate shown.
+   Description: Find points of interest around or within locations, paths, or geofences and return category/statistical information.
+   Source: https://openrouteservice.org/services/
+   Catalog ID: openrouteservice-pois
+
+184. openrouteservice Time-Distance Matrix
+   Category: Maps & Routing
+   Provider: openrouteservice (GIScience/HeiGIT)
+   Tag: Matrix
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Free public service advertises more than 7,000 requests/day; no public paid per-call rate shown.
+   Description: Return time and distance between one-to-many, many-to-many, or many-to-one origin-destination sets; supports up to 2,500 distance pairs.
+   Source: https://openrouteservice.org/services/
+   Catalog ID: openrouteservice-matrix
+
+185. Routify API – Optimize Routes & Get Smart ETA Solutions
+   Category: Maps & Routing
+   Provider: routify
+   Tag: Optimization
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 5.0/5 (2 reviews)
+   Usage / plan notes: API.market category shows $10/month; no public per-call rate or free-unit amount shown.
+   Description: Optimize routes, calculate smart ETAs, and build efficient deliveries with an AI-enhanced routing API.
+   Source: https://api.market/store/routify/routify
+   Catalog ID: routify
+
+186. TomTom Geocoding API
+   Category: Maps & Routing
+   Provider: TomTom
+   Tag: Geocoding
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 20K free monthly requests per API; numeric paid rate not rendered on the public pricing page.
+   Description: Convert addresses into precise geographic coordinates.
+   Source: https://docs.tomtom.com/pricing/
+   Catalog ID: tomtom-geocoding
+
+187. TomTom Long Distance EV Routing API
+   Category: Maps & Routing
+   Provider: TomTom
+   Tag: EV Routing
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 2.5K free monthly requests per API; numeric paid rate not rendered on the public pricing page.
+   Description: Plan electric-vehicle trips with intelligent charging stops along the route.
+   Source: https://docs.tomtom.com/pricing/
+   Catalog ID: tomtom-ev-routing
+
+188. TomTom Matrix Routing API
+   Category: Maps & Routing
+   Provider: TomTom
+   Tag: Matrix
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 2.5K free monthly requests per API; numeric paid rate not rendered on the public pricing page.
+   Description: Get travel times and distances for multiple origin-destination pairs.
+   Source: https://docs.tomtom.com/pricing/
+   Catalog ID: tomtom-matrix-routing
+
+189. TomTom Places Search API Details
+   Category: Maps & Routing
+   Provider: TomTom
+   Tag: Places
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 5K free monthly requests per API; numeric paid rate not rendered on the public pricing page.
+   Description: Return attributes for a single location or point of interest.
+   Source: https://docs.tomtom.com/pricing/
+   Catalog ID: tomtom-places-details
+
+190. TomTom Places Search API Discover
+   Category: Maps & Routing
+   Provider: TomTom
+   Tag: Places
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 5K free monthly requests per API; numeric paid rate not rendered on the public pricing page.
+   Description: Return a list of locations or points of interest with attributes.
+   Source: https://docs.tomtom.com/pricing/
+   Catalog ID: tomtom-places-discover
+
+191. TomTom Places Search API Suggest
+   Category: Maps & Routing
+   Provider: TomTom
+   Tag: Autocomplete
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 10K free monthly requests per API; numeric paid rate not rendered on the public pricing page.
+   Description: Return place suggestions as users type.
+   Source: https://docs.tomtom.com/pricing/
+   Catalog ID: tomtom-places-suggest
+
+192. TomTom Reachable Range API
+   Category: Maps & Routing
+   Provider: TomTom
+   Tag: Reachability
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 2.5K free monthly requests per API; numeric paid rate not rendered on the public pricing page.
+   Description: Calculate the geographic range reachable from a given location.
+   Source: https://docs.tomtom.com/pricing/
+   Catalog ID: tomtom-reachable-range
+
+193. TomTom Reverse Geocoding API
+   Category: Maps & Routing
+   Provider: TomTom
+   Tag: Geocoding
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 20K free monthly requests per API; numeric paid rate not rendered on the public pricing page.
+   Description: Convert coordinates into readable addresses or place names.
+   Source: https://docs.tomtom.com/pricing/
+   Catalog ID: tomtom-reverse-geocoding
+
+194. TomTom Routing API
+   Category: Maps & Routing
+   Provider: TomTom
+   Tag: Routing
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 20K free monthly requests per API; usage-based paid pricing is available through TomTom's calculator, but the public pricing page does not render a numeric rate.
+   Description: Calculate optimal routes with traffic, vehicle settings, alternatives, and waypoints using TomTom's routing engine.
+   Source: https://docs.tomtom.com/routing-api/documentation/tomtom-maps/v1/product-information/introduction/
+   Catalog ID: tomtom-routing
+
+195. TomTom Snap to Roads API
+   Category: Maps & Routing
+   Provider: TomTom
+   Tag: Map Matching
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 2.5K free monthly requests per API; numeric paid rate not rendered on the public pricing page.
+   Description: Snap GPS traces to a road network and retrieve speed limits, lanes, and related road attributes.
+   Source: https://docs.tomtom.com/pricing/
+   Catalog ID: tomtom-snap-roads
+
+196. TomTom Traffic Incidents API Details
+   Category: Maps & Routing
+   Provider: TomTom
+   Tag: Traffic
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 2.5K free monthly requests per API; numeric paid rate not rendered on the public pricing page.
+   Description: Return real-time traffic incident data.
+   Source: https://docs.tomtom.com/pricing/
+   Catalog ID: tomtom-traffic-incidents
+
+197. Trueway Geocoding API: Forward and Reverse Geocoding
+   Category: Maps & Routing
+   Provider: trueway
+   Tag: Geocoding
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 5.0/5 (1 review)
+   Usage / plan notes: 5K free API units shown on API.market Location category; individual page currently shows no pricing plan.
+   Description: Convert coordinates into addresses and addresses into coordinates.
+   Source: https://api.market/store/trueway/geocoding
+   Catalog ID: trueway-geocoding
+
+198. Trueway Matrix API: Travel Distance and Time
+   Category: Maps & Routing
+   Provider: trueway
+   Tag: Matrix
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 5.0/5 (2 reviews)
+   Usage / plan notes: 5K free API units shown on API.market Location category; individual page currently shows no pricing plan.
+   Description: Calculate distances and durations between a set of origins and destinations.
+   Source: https://api.market/store/trueway/matrix
+   Catalog ID: trueway-matrix
+
+199. Trueway Places API
+   Category: Maps & Routing
+   Provider: trueway
+   Tag: Places
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 5.0/5 (1 review)
+   Usage / plan notes: 3K free API units shown on API.market Location category; individual page currently shows no pricing plan.
+   Description: Return information for 180M+ places and points of interest, including categories, names, addresses, phone numbers, and coordinates.
+   Source: https://api.market/store/trueway/places
+   Catalog ID: trueway-places
+
+200. Trueway Routing API
+   Category: Maps & Routing
+   Provider: trueway
+   Tag: Routing
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 3.7/5 (3 reviews)
+   Usage / plan notes: 5K free API units shown on API.market Location category; individual page currently shows no pricing plan.
+   Description: Find the optimal route between two or more locations.
+   Source: https://api.market/store/trueway/routing
+   Catalog ID: trueway-routing
+
+201. Bing Search
+   Category: Scraping & Conversion
+   Provider: veer-hanuman-1
+   Tag: Search API
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 5 free API units (category listing; product page currently shows no active pricing plan)
+   Description: Search API for web, image, news, and video results.
+   Source: https://api.market/store/veer-hanuman-1/bing-search
+   Catalog ID: bing-search
+
+202. Extract Content from Web Page API
+   Category: Scraping & Conversion
+   Provider: skycraft
+   Tag: Content extraction
+   Price: $0.0005 per call (marketplace unit price)
+   Rating: Not shown (0 reviews on product page)
+   Usage / plan notes: 1,500 free API units (category listing; product page currently shows no active pricing plan)
+   Description: Retrieves the main text, title, and images from a web article URL.
+   Source: https://api.market/store/skycraft/extract-content
+   Catalog ID: extract-content
+
+203. Extract News API
+   Category: Scraping & Conversion
+   Provider: skycraft
+   Tag: News extraction
+   Price: $0.0005 per call (marketplace unit price)
+   Rating: Not shown (0 reviews on product page)
+   Usage / plan notes: 1,500 free API units (category listing; product page currently shows no active pricing plan)
+   Description: Converts news articles into structured JSON for retrieval and analysis workflows.
+   Source: https://api.market/store/skycraft/extract-news
+   Catalog ID: extract-news
+
+204. Google Search API
+   Category: Scraping & Conversion
+   Provider: brave
+   Tag: Search API
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown (0 reviews on product page)
+   Usage / plan notes: 500 free API units in Basic category plan; product page currently shows no active pricing plan
+   Description: Provides privacy-focused internet search results from the Brave search ecosystem.
+   Source: https://api.market/store/brave/brave
+   Catalog ID: brave
+
+205. Instagram Media Downloader API
+   Category: Scraping & Conversion
+   Provider: saverapi
+   Tag: Media scraping
+   Price: $0.0005 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 100 free API units (category listing; product page currently shows no active pricing plan)
+   Description: Retrieves downloadable Instagram media through an API endpoint.
+   Source: https://api.market/store/saverapi/social-media-downloader
+   Catalog ID: social-media-downloader
+
+206. Instagram Post, Reels & Stories Downloader API
+   Category: Scraping & Conversion
+   Provider: diyortech
+   Tag: Social scraping
+   Price: $0.0005 per call (marketplace unit price)
+   Rating: 3.0/5 (1 review)
+   Usage / plan notes: 100 free API units (category listing; product page currently shows no active pricing plan)
+   Description: Downloads Instagram Reels, Stories, and Posts for archiving, social tools, or media analysis.
+   Source: https://api.market/store/diyortech/instagram
+   Catalog ID: instagram
+
+207. Link Preview API
+   Category: Scraping & Conversion
+   Provider: glowhalo
+   Tag: URL metadata
+   Price: $0.0005 per call (marketplace unit price)
+   Rating: Not shown (0 reviews on product page)
+   Usage / plan notes: 1,000 free API units (category listing; product page currently shows no active pricing plan)
+   Description: Extracts a URL's title, description, image, and favicon in one cached call.
+   Source: https://api.market/store/glowhalo/link-preview-api
+   Catalog ID: link-preview-api
+
+208. News Article Data Extract and Summarization API (Article-to-JSON)
+   Category: Scraping & Conversion
+   Provider: pipfeed
+   Tag: Article conversion
+   Price: $0.0005 per call (marketplace unit price)
+   Rating: 5.0/5 (2 reviews)
+   Usage / plan notes: 500 free API units (category listing; product page currently shows no active pricing plan)
+   Description: Accepts an article URL and converts the article into clean JSON containing title, summary, text, and other properties.
+   Source: https://api.market/store/pipfeed/parse
+   Catalog ID: parse
+
+209. News Scraper API
+   Category: Scraping & Conversion
+   Provider: pattrickx
+   Tag: News scraping
+   Price: $0.01 per call (marketplace unit price)
+   Rating: Not shown (0 reviews on product page)
+   Usage / plan notes: 200 units on Base plan at $2/month in category feed; product page currently shows no active pricing plan
+   Description: Extracts structured news content from front pages and individual articles for automation pipelines.
+   Source: https://api.market/store/pattrickx/news-scraper-api
+   Catalog ID: news-scraper-api
+
+210. Real-time SERP Data / SerpLib API
+   Category: Scraping & Conversion
+   Provider: serplib
+   Tag: SERP scraping
+   Price: $0.0005 per call (marketplace unit price)
+   Rating: 5.0/5 (1 review)
+   Usage / plan notes: 100 free API units (category listing; product page currently shows no active pricing plan)
+   Description: Returns structured Google search results through a high-performance endpoint designed for sub-two-second responses.
+   Source: https://api.market/store/serplib/serp
+   Catalog ID: serp
+
+211. Review Scraper API
+   Category: Scraping & Conversion
+   Provider: sitetrace
+   Tag: Review scraping
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown (0 reviews on product page)
+   Usage / plan notes: 50 free API units in Basic category plan; product page currently shows no active pricing plan
+   Description: Scrapes reviews, ratings, and reviewer metadata from Google, Trustpilot, G2, Yelp, and other platforms into structured JSON.
+   Source: https://api.market/store/sitetrace/review-scraper
+   Catalog ID: review-scraper
+
+212. Search Icons API
+   Category: Scraping & Conversion
+   Provider: skycraft
+   Tag: Asset search
+   Price: $0.0005 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 1,500 free API units (category listing; product page currently shows no active pricing plan)
+   Description: Searches a large icon collection for app, web, and branding use cases.
+   Source: https://api.market/store/skycraft/search-icons
+   Catalog ID: search-icons
+
+213. Search News API
+   Category: Scraping & Conversion
+   Provider: skycraft
+   Tag: News search
+   Price: $0.0005 per call (marketplace unit price)
+   Rating: Not shown (0 reviews on product page)
+   Usage / plan notes: 1,500 free API units (category listing; product page currently shows no active pricing plan)
+   Description: Finds news articles across more than 200 countries and 90 languages with keyword and date filters.
+   Source: https://api.market/store/skycraft/search-news
+   Catalog ID: search-news
+
+214. Search Royalty Free Images API
+   Category: Scraping & Conversion
+   Provider: skycraft
+   Tag: Image search
+   Price: $0.0005 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: 1,500 free API units (category listing; product page currently shows no active pricing plan)
+   Description: Searches royalty-free image sources for creative, design, and marketing projects.
+   Source: https://api.market/store/skycraft/search-images
+   Catalog ID: search-images
+
+215. Search Web API
+   Category: Scraping & Conversion
+   Provider: skycraft
+   Tag: Web search
+   Price: $0.0005 per call (marketplace unit price)
+   Rating: 5.0/5 (1 review)
+   Usage / plan notes: 1,500 free API units (category listing; product page currently shows no active pricing plan)
+   Description: Queries the web and returns structured search results with titles, summaries, and URLs.
+   Source: https://api.market/store/skycraft/search-web
+   Catalog ID: search-web
+
+216. Tavily API
+   Category: Scraping & Conversion
+   Provider: tavily-ai
+   Tag: AI web search
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown (0 reviews on product page)
+   Usage / plan notes: 100 free API units in category feed; product page currently shows no active pricing plan
+   Description: Search API optimized for LLM and RAG workflows, returning fast, persistent search results.
+   Source: https://api.market/store/tavily-ai/tavily
+   Catalog ID: tavily
+
+217. Twitter/X Screenshot API
+   Category: Scraping & Conversion
+   Provider: eiconstela
+   Tag: Web capture
+   Price: $0.0005 per call (marketplace unit price)
+   Rating: 5.0/5 (2 reviews)
+   Usage / plan notes: 100 free API units (category listing; product page currently shows no active pricing plan)
+   Description: Captures X posts or tweets as customizable high-quality screenshot images.
+   Source: https://api.market/store/eiconstela/x-screenshot
+   Catalog ID: x-screenshot
+
+218. URL Metadata Extraction API
+   Category: Scraping & Conversion
+   Provider: codezic
+   Tag: Metadata extraction
+   Price: $0.0005 per call (marketplace unit price)
+   Rating: Not shown (0 reviews on product page)
+   Usage / plan notes: 1,000 free API units (category listing; product page currently shows no active pricing plan)
+   Description: Retrieves titles, descriptions, and Open Graph data from any URL for automated link previews.
+   Source: https://api.market/store/codezic/metadata-extracter
+   Catalog ID: metadata-extracter
+
+219. Web Summarizer & Reader API
+   Category: Scraping & Conversion
+   Provider: sitetrace
+   Tag: Web extraction
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown (0 reviews on product page)
+   Usage / plan notes: 50 free API units in Basic category plan; product page currently shows no active pricing plan
+   Description: Extracts clean webpage text and metadata, then produces an AI-generated summary.
+   Source: https://api.market/store/sitetrace/web-summarizer
+   Catalog ID: web-summarizer
+
+220. X (Twitter) Profiles & Tweets Data API
+   Category: Scraping & Conversion
+   Provider: xdata
+   Tag: Social data
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown (0 reviews on product page)
+   Usage / plan notes: 500,000 units on Pro plan at $9.99/month in category feed; product page currently shows no active pricing plan
+   Description: Looks up public X profiles and recent tweets by handle without requiring official X API keys.
+   Source: https://api.market/store/xdata/x-twitter-data
+   Catalog ID: x-twitter-data
+
+221. Access Real-time EV Charging Data & Optimize Routes with EV Charge API
+   Category: Travel & Transportation
+   Provider: nicheapi-llc-1
+   Tag: EV charging
+   Price: $0.002 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: $29/month shown on the API.market category card; per-call pricing was not published.
+   Description: Real-time EV charging availability, pricing, and wait times for route planning and fleet optimization.
+   Source: https://api.market/store/nicheapi-llc-1/evcharge
+   Catalog ID: evcharge
+
+222. AeroAPI
+   Category: Travel & Transportation
+   Provider: FlightAware
+   Tag: flight tracking
+   Price: $0.002 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Official page says usage-based pricing as low as $0.002 per query; free-trial availability is shown as an account option.
+   Description: Query-based live and recent historical flight-tracking API for positions, flight and airport status, schedules, gates, weather, and related aviation data.
+   Source: https://www.flightaware.com/commercial/data/
+   Catalog ID: flightaware-aeroapi
+
+223. AeroDataBox API - Aviation and Flight API
+   Category: Travel & Transportation
+   Provider: aedbx / AeroDataBox
+   Tag: flight data
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 4.0 (20 reviews)
+   Usage / plan notes: API.market category shows 400 free API units; product page currently shows no active pricing plan.
+   Description: Real-time flight tracking and status, airport schedules, aircraft registration, delay indexes, and aviation metadata.
+   Source: https://api.market/store/aedbx/aerodatabox
+   Catalog ID: aerodatabox
+
+224. Airbnb - Stay Search & Listing Details API
+   Category: Travel & Transportation
+   Provider: veer-hanuman-1
+   Tag: stay search
+   Price: $0.005 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 5 free API units shown on the API.market category card; public paid pricing was not shown.
+   Description: Real-time Airbnb stay search and listing details including amenities, reviews, host information, policies, and stay URL resolution.
+   Source: https://api.market/store/veer-hanuman-1/airbnb
+   Catalog ID: airbnb-stay-search
+
+225. Airports Database & Flight Duration API
+   Category: Travel & Transportation
+   Provider: sharpapi.com
+   Tag: airport utility
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: $20/month shown on the API.market category card; the API.market guide describes a 100 API-unit free tier. Per-call amount is not published.
+   Description: Airport metadata and flight-duration calculations covering about 30,000 airports, with airport search by common aviation codes and location fields.
+   Source: https://api.market/store/sharpapi.com/airports
+   Catalog ID: airports-flight-duration
+
+226. Amadeus Enterprise Air APIs
+   Category: Travel & Transportation
+   Provider: Amadeus
+   Tag: air booking
+   Price: $0.05 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Current official developer portal says self-service was decommissioned July 17 and directs developers to request enterprise access and test in the Enterprise sandbox; pricing is quote-based.
+   Description: Enterprise air APIs for flight shopping, booking-management-related workflows, and airline travel applications.
+   Source: https://developers.amadeus.com/self-service/category/flights
+   Catalog ID: amadeus-enterprise-air-apis
+
+227. Aviationstack Flight Data API
+   Category: Travel & Transportation
+   Provider: Aviationstack / APILayer
+   Tag: aviation data
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Official page offers 100 free requests/month; premium subscriptions start at $49.99/month.
+   Description: REST API for real-time and historical flight status, schedules, routes, airports, airlines, aircraft, cities, countries, and aviation taxes.
+   Source: https://aviationstack.com/
+   Catalog ID: aviationstack
+
+228. Beach Day API
+   Category: Travel & Transportation
+   Provider: versusmedia
+   Tag: beach travel
+   Price: $0.001 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 100 free API units shown on the API.market category card; product page shows no active pricing plan.
+   Description: Beach discovery with conditions, water quality, weather, and Beach Day scores for 36,500+ beaches across 110 countries.
+   Source: https://api.market/store/versusmedia/beach-day-api
+   Catalog ID: beach-day-api
+
+229. Geoapify Location Platform APIs
+   Category: Travel & Transportation
+   Provider: Geoapify
+   Tag: maps & routing
+   Price: $0.0002 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Free plan provides 3,000 credits/day; paid API 10 plan is $59/month for 10,000 credits/day. Simple requests such as geocoding, places, and routing generally cost 1 credit.
+   Description: Maps, geocoding, places, and routing APIs for worldwide location search and route computation.
+   Source: https://www.geoapify.com/pricing/
+   Catalog ID: geoapify-location-api
+
+230. Global Digital Nomad Visa Intelligence API
+   Category: Travel & Transportation
+   Provider: evanvandalen
+   Tag: visa intelligence
+   Price: $0.002 per call (marketplace unit price)
+   Rating: 0.0 (0 reviews)
+   Usage / plan notes: 100 free API units shown on the API.market category card; public paid pricing was not shown.
+   Description: Structured visa data for 35+ digital-nomad programs with eligibility matching, tax estimates, recommendations, and residency pathways.
+   Source: https://api.market/store/evanvandalen/global-nomad-visa
+   Catalog ID: global-digital-nomad-visa
+
+231. Google Maps Distance Matrix API (Legacy)
+   Category: Travel & Transportation
+   Provider: Google Maps Platform
+   Tag: distance matrix
+   Price: $0.005 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Official documentation says billing is per returned element (origins multiplied by destinations), with separate basic and advanced SKUs; billing must be enabled. Product is marked Legacy.
+   Description: Pay-as-you-go travel-time and distance matrix for origin/destination pairs, with basic and traffic-aware advanced requests.
+   Source: https://developers.google.com/maps/documentation/distance-matrix/usage-and-billing
+   Catalog ID: google-distance-matrix
+
+232. HBX Group API Suite (Hotelbeds APItude)
+   Category: Travel & Transportation
+   Provider: HBX Group / Hotelbeds
+   Tag: travel distribution
+   Price: $0.01 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Official page offers a free API key, evaluation plan, and sandbox testing; commercial pricing and commission rules are supplied after profile/commercial assessment.
+   Description: Open API suite for hotel, activity, transfer, and car-rental content, availability, booking, and cache workflows.
+   Source: https://developer.hotelbeds.com/
+   Catalog ID: hotelbeds-api-suite
+
+233. HERE Public Transit API v8
+   Category: Travel & Transportation
+   Provider: HERE Technologies
+   Tag: public transit
+   Price: $0.005 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Official docs reference HERE Base Plan Pricing; public page does not state a per-call amount.
+   Description: REST APIs for public-transit routing, next departures, and station search using agency and HERE transit data.
+   Source: https://docs.here.com/transit/docs/readme-public-transit-api-v8
+   Catalog ID: here-public-transit-v8
+
+234. Rapid API
+   Category: Travel & Transportation
+   Provider: Expedia Group
+   Tag: hotel booking
+   Price: $0.01 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Official page says partner access is required and public per-call pricing is not shown; it reports 800,000+ properties and 310,000 destinations.
+   Description: Partner lodging API supporting shopping, booking, payment, post-booking flows, property and room content, rates, and deals across global inventory.
+   Source: https://partner.expediagroup.com/en-us/solutions/build-your-travel-experience/rapid-api
+   Catalog ID: expedia-rapid
+
+235. Sabre GDS APIs
+   Category: Travel & Transportation
+   Provider: Sabre
+   Tag: GDS booking
+   Price: $0.05 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Sandbox testing is free; production access requires commercial agreement. API.market's current travel guide describes typical setup/licensing fees of $5,000-$10,000, not per-call pricing.
+   Description: Enterprise travel distribution APIs for flights, hotels, car rental, rail, pricing, booking, and ticketing workflows.
+   Source: https://developer.sabre.com/
+   Catalog ID: sabre-gds-api
+
+236. Skyscanner Travel APIs
+   Category: Travel & Transportation
+   Provider: Skyscanner
+   Tag: flight search
+   Price: $0.001 per call (marketplace unit price)
+   Rating: Not shown
+   Usage / plan notes: Official support says completely free: no per-booking, yearly, or monthly fee; access requires partner application and revenue share.
+   Description: Partner APIs for flight, hotel, and car-hire travel search combining indicative and real-time pricing.
+   Source: https://www.partners.skyscanner.net/product/travel-api
+   Catalog ID: skyscanner-travel-api

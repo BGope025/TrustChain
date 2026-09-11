@@ -1,0 +1,4 @@
+graph TD
+    Transaction-->|Success|Reputation_Up
+    Transaction-->|Failure|Reputation_Down
+    Reputation_Up-->SmartContract

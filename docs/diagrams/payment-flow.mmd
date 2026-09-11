@@ -1,0 +1,5 @@
+sequenceDiagram
+    User->>ASBPay: Initiate Payment
+    ASBPay->>Algorand: Hold in Escrow
+    Algorand-->>ASBPay: Confirmed
+    ASBPay-->>User: Success

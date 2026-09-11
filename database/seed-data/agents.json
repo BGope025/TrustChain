@@ -1,0 +1,9 @@
+[
+  {
+    "id": "agt_alpha1",
+    "name": "Market Researcher Alpha",
+    "ownerId": "usr_test1",
+    "status": "idle",
+    "capabilities": ["finance", "media"]
+  }
+]

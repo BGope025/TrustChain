@@ -1,0 +1,5 @@
+{
+  "id": "agt_demo1",
+  "name": "Demo Agent",
+  "capabilities": ["finance", "risk", "media"]
+}

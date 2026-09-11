@@ -1,0 +1,3 @@
+provider_id,latency_ms,uptime_percentage,timestamp
+prov_1,150,99.9,2026-09-09T08:00:00Z
+prov_2,320,98.5,2026-09-09T08:00:00Z

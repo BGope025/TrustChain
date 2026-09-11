@@ -1,0 +1,10 @@
+[
+  {
+    "serviceId": "srv_finance_1",
+    "trustScore": 98.5,
+    "successfulCalls": 1050,
+    "failedCalls": 5,
+    "disputes": 0,
+    "grade": "A+"
+  }
+]
