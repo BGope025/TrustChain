@@ -16,6 +16,13 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(requestLogger);
 
+// --- ADDED: Health Check Route for Render ---
+// This handles both GET and HEAD requests to the root directory
+app.get('/', (req, res) => {
+    res.status(200).send("TrustChain Backend is LIVE and healthy!");
+});
+// --------------------------------------------
+
 // 2. Mount API Routes
 app.use('/api', apiRoutes);
 
