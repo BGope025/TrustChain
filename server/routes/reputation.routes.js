@@ -17,7 +17,26 @@ let reputationStore = {
     "srv-vision-01": { trustScore: 82.3, successfulCalls: 3402, failedCalls: 490, disputes: 35, averageLatencyMs: 450 } // Low score example
 };
 
-// 1. GET PROVIDER REPUTATION
+// 1a. GET AGENT REPUTATION BY WALLET ADDRESS
+// Route: GET /api/reputation/address/:address?
+router.get('/address/:address?', (req, res) => {
+    const address = req.params.address || process.env.AGENT_WALLET_ADDRESS || "YMSRXTYJA6SCU6OBPXGY2AO2OE6BAIF24JLGSZZBPRD5JRYWZV62LYA4FQ";
+
+    res.json({
+        success: true,
+        address: address,
+        reputation: {
+            trustScore: 98.4,
+            rank: "A+",
+            totalTasksExecuted: 142,
+            successfulSettlements: 142,
+            disputes: 0,
+            uptime: "99.9%"
+        }
+    });
+});
+
+// 1b. GET PROVIDER REPUTATION
 // Route: GET /api/reputation/:serviceId
 router.get('/:serviceId', (req, res) => {
     const { serviceId } = req.params;
