@@ -32,7 +32,7 @@ const walletState = {
 
 // 1. GET WALLET DETAILS & POLICY STATUS (Merged Logic)
 // Route: GET /api/wallet OR GET /api/wallet/:address
-router.get('/:address?', requireAuth, async (req, res) => {
+router.get('{/:address}', requireAuth, async (req, res) => {
     try {
         const address = req.params.address || walletState.address;
         const usdcAssetId = parseInt(env.USDC_TESTNET_ASSET_ID || 10458941);

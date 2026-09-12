@@ -19,7 +19,7 @@ let reputationStore = {
 
 // 1a. GET AGENT REPUTATION BY WALLET ADDRESS
 // Route: GET /api/reputation/address/:address?
-router.get('/address/:address?', (req, res) => {
+router.get('/address{/:address}', (req, res) => {
     const address = req.params.address || process.env.AGENT_WALLET_ADDRESS || "YMSRXTYJA6SCU6OBPXGY2AO2OE6BAIF24JLGSZZBPRD5JRYWZV62LYA4FQ";
 
     res.json({
