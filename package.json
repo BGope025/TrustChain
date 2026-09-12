@@ -8,6 +8,7 @@
     "start": "node build-registry.js && node server/server.js"
   },
   "dependencies": {
+    "algosdk": "^3.2.0",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1"
